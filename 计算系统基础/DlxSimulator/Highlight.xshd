@@ -1,0 +1,68 @@
+<SyntaxDefinition name="C#" xmlns="http://icsharpcode.net/sharpdevelop/syntaxdefinition/2008">
+    <Color name="Comment" foreground="Green" />
+    <Color name="String" foreground="Blue" />
+    
+    <!-- This is the main ruleset. -->
+    <RuleSet ignoreCase = "true">
+        <Span color="Comment" begin=";" />
+        <Span color="String">
+            <Begin>"</Begin>
+            <End>"</End>
+        </Span>
+        
+        <Keywords fontWeight="bold" foreground="Blue">
+            <Word>ADD</Word>
+			<Word>ADDI</Word>
+			<Word>SUB</Word>
+			<Word>SUBI</Word>
+			<Word>AND</Word>
+			<Word>ANDI</Word>
+			<Word>OR</Word>
+			<Word>ORI</Word>
+			<Word>XOR</Word>
+			<Word>XORI</Word>
+			<Word>SLL</Word>
+			<Word>SLLI</Word>
+			<Word>SRL</Word>
+			<Word>SRLI</Word>
+			<Word>SRA</Word>
+			<Word>SRAI</Word>
+			<Word>SLT</Word>
+			<Word>SLTI</Word>
+			<Word>SLE</Word>
+			<Word>SLEI</Word>
+			<Word>SEQ</Word>
+			<Word>SEQI</Word>
+			<Word>SNE</Word>
+			<Word>SNEI</Word>
+			<Word>LHI</Word>
+			<Word>LB</Word>
+			<Word>SB</Word>
+			<Word>LW</Word>
+			<Word>SW</Word>
+			<Word>BEQZ</Word>
+			<Word>BNEZ</Word>
+			<Word>J</Word>
+			<Word>JAL</Word>
+			<Word>JR</Word>
+			<Word>JALR</Word>
+			<Word>TRAP</Word>
+			<Word>RFE</Word>
+			<Word>RET</Word>
+			<Word>MOVI2S</Word>
+			<Word>MOVS2I</Word>
+        </Keywords>
+		<!--Register-->
+		<Rule foreground="Red">
+			\br\d+
+		</Rule>
+        <!--Directive -->
+		<Rule foreground="Orange">
+			\s*.(data|text|global|extern|word|byte|space|asciiz|ascii|align)\b
+		</Rule>
+        <!-- Digits -->
+        <Rule foreground="DarkBlue">
+            \bx[0-9a-fA-F]+  |    \b\d\d* | \bb[01]+
+        </Rule>
+    </RuleSet>
+</SyntaxDefinition>

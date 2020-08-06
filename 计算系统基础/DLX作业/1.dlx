@@ -1,0 +1,15 @@
+            .DATA	x30000000
+STRING :    .ASCII  "hello world"
+END :       .BYTE   x04
+            .TEXT   
+            .EXTERN  TOUPPER
+            .GLOBAL  MAIN
+MAIN :      LHI     R1, x3000
+LOOP :      LB      R2, 0(R1)
+            SEQI    R3, R2, x04
+            BNEZ    R3, EXIT
+            JAL     TOUPPER
+DO :        ADDI    R1, R1, #1
+            J       LOOP
+EXIT :      TRAP    x00
+

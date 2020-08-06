@@ -1,0 +1,18 @@
+            .DATA
+            .TEXT   
+            .GLOBAL  MAIN
+MAIN :      TRAP    #06
+            LHI     R1, x3000
+
+LOOP :      LB      R2, #0(R1)
+            SEQI    R3, R2, x04
+            BNEZ    R3, EXIT
+            SEQ     R3, R2, R4
+            ADDI    R1, R1, #1
+            BEQZ    R3, LOOP
+            ADDI    R5, R5, #1
+            J       LOOP
+
+EXIT :      ADDI    R4, R5, #48
+            TRAP    #07
+            TRAP    #0

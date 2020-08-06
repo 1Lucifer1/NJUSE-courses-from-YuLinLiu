@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DLXObject>
+<Data>
+	<DataTable Base='805306368' Length='12'>
+		<Symbol name='STRING' isGlobal='False' isExtern='False' >0</Symbol>
+		<Symbol name='EOT' isGlobal='False' isExtern='False' >11</Symbol>
+	</DataTable>
+	<DataContent>68656C6C6F20776F726C6404</DataContent>
+</Data>
+<Text>
+
+	<TextTable Base='4294967295' Length='52'>
+		<Symbol name='MAIN' isGlobal='True' isExtern='False' >0</Symbol>
+		<Symbol name='LOOP' isGlobal='False' isExtern='False' >8</Symbol>
+		<Symbol name='EXIT' isGlobal='False' isExtern='False' >40</Symbol>
+	</TextTable>
+	<TextContent>1 4 4 #108 24 1 #12288 25 2 1 #0 21 3 2 #4 30 3 EXIT 20 3 2 4 1 1 1 #1 29 3 LOOP 1 5 5 #1 31 LOOP 1 4 5 #48 35 #7 35 #0 </TextContent>
+</Text>
+</DLXObject>
