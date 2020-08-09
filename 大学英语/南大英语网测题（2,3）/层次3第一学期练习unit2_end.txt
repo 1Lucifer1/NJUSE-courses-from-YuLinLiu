@@ -1,0 +1,581 @@
+层次3第一学期练习unit2_end
+Updated: Mon Dec 16 22:11:02 2013
+
+================================================================================
+INFORMATION:
+
+Program created by: ............................................... Luo Chenxing
+Platform: ............................................ Ubuntu 13.04 Python 3.3.1
+Program updated on: .............................................. Dec. 10, 2013
+
+Applause to those teachers who edited and arranged these exercises and to those engineers who run the online system.
+================================================================================
+
+================================================================================
+I. 选择题：
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+PART 1
+--------------------------------------------------------------------------------
+1. Their company is one of the industry's _____.
+A.heavyweights      B.heavyweight       C.heavyweigh        D.heavyweighs       
+
+2. The country's  _____ are opposed to the new ruler.
+A.ego               B.echo              C.elect             D.elite             
+
+3. There was a sharp blow _____ the starter's whistle.
+A.in                B.on                C.at                D.of                
+
+4. The egg-cups she's collected are now _____ dust on a bookshelf.
+A.making            B.taking            C.gathering         D.avoiding          
+
+5. This is the _____ where the movie was filmed. 
+A.scene             B.scenery           C.image             D.imagery           
+
+6. We sat quietly for a few _____ moments.
+A.tent              B.intent            C.tense             D.intense           
+
+7. The sun _____ from behind the clouds.
+A.merged            B.emerged           C.imaged            D.enlarged          
+
+8. She has had almost no preparation _____ the competition.
+A.in                B.on                C.at                D.for               
+
+9. His _____ behaviour lost him his job.
+A.centric           B.eccentric         C.sential           D.essential         
+
+10. She wouldn't ____ reading a book a hobby.
+A.regard            B.consider          C.take              D.assume            
+
+11. He is fond of his neighbour's _____ garden. 
+A.herd              B.heir              C.herb              D.heap              
+
+12. The pursuit of a hobby can _____ a person's energy. 
+A.map               B.gap               C.sap               D.tap               
+
+13. Can you be more _____? What exactly did the policeman say?
+A.given             B.related           C.special           D.specific          
+
+14. The egg-cups have always _____ Meares.
+A.fancied           B.fascinated        C.favoured          D.fanned            
+
+15. Some teapots are purely _____, but often unusable.
+A.aesthetic         B.easthetic         C.ethnic            D.aethnic           
+
+16. Is the baby eating _____ food yet?
+A.steam             B.fixed             C.firm              D.solid             
+
+17. A _____ is a hole out of which liquid flows.
+A.frown             B.fown              C.sprout            D.spout             
+
+18. A high _____ of the jigsaws sold in the shop are gifts.
+A.prohibition       B.provision         C.procession        D.proportion        
+
+19. He is a _____ teacher.
+A.calculated        B.fascinated        C.dedicated         D.indicated         
+
+20. The Smiths are golf _____. They play it twice a week. 
+A.enthusiasts       B.enterprises       C.encounters        D.endurers          
+
+21. A _____ puzzle consists of small irregular pieces that are to be fitted together to form a picture.
+A.jigsaw            B.seasaw            C.backsaw           D.bedstraw          
+
+22. He likes daring sports such as _____ jumping and skydiving.
+A.bungee            B.bunge             C.bangy             D.bangee            
+
+23. The team hasn't won a _____ in 30 years.
+A.champion          B.championship      C.champagne         D.champagneship     
+
+24. Jenny Smith won the knitting match with 23 rows and 11 _____.
+A.steches           B.stechs            C.stiches           D.stichs            
+
+25. They spend equal _____ of time in California and New York. 
+A.sum               B.sums              C.amount            D.amounts           
+
+26. Some people collect cigarette _____. 
+A.packets           B.packs             C.parcels           D.packages          
+
+27. She collects Beatles _____. 
+A.memory            B.memorization      C.memorabilia       D.memorabilae       
+
+28. He is a keen wine _____.
+A.hobbyist          B.hobbyer           C.hobbist           D.hobbier           
+
+29. The painting was bought by a private _____.
+A.collecter         B.collector         C.collection        D.collecting        
+
+30. He _____ a fortune from his grandmother.
+A.inherited         B.heritaged         C.inherented        D.inhabited         
+
+31. He prefers a good book _____ a movie. 
+A.to                B.with              C.for               D.than              
+
+32. Much of his job as a salesman involves _____ clients. 
+A.to entertain      B.entertaining      C.to enjoy          D.enjoying          
+
+33. He is an artist with seemingly unlimited _____.
+A.creating          B.creator           C.creativity        D.creation          
+
+34. Model train operation attracts a _____ different crowd of practitioners.
+A.somehow           B.somewhat          C.anyhow            D.anyway            
+
+35. In 2009 I took part in a tuk-tuk drive around Sri Lanka to ____ money for children affected by the war.
+A.raise             B.pool              C.win               D.fund              
+
+36. Employers see _____ CVs/resumes for one job every day.
+A.number            B.numeral           C.numerous          D.numbery           
+
+37. People employ people and they really want to _____ that you do have a life outside work and are socially connected to the human race.
+A.concur            B.confer            C.combine           D.confirm           
+
+38. The best way to do this is to put everything down _____ paper.
+A.on                B.in                C.to                D.at                
+
+39. You can sift through the results to create a final _____ story.
+A.unity             B.union             C.unified           D.uniform           
+
+40. An advantage of using post-its is that you can see the _____ of your results at once.
+A.entire            B.entirety          C.entirely          D.entity            
+
+41. EG had the _____ post-match interview. 
+A.excluding         B.including         C.exclusive         D.inclusive         
+
+42. She ran the race _____ the injury.
+A.inspite           B.despite           C.spite             D.depite            
+
+43. The storm caused only _____ damage. 
+A.maximum           B.maximal           C.minimum           D.minimal           
+
+44. He is _____ by the war--he talks about nothing else.
+A.obsessed          B.obsessive         C.obsessing         D.obsession         
+
+45. He _____ a new suit for $100.
+A.punched           B.pursued           C.purchased         D.pulsed            
+
+46. He arranged the letters in _____.
+A.stakes            B.stacks            C.stocks            D.sticks            
+
+47. The storm produced a _____ amount of rain.
+A.copious           B.precious          C.delicious         D.tedious           
+
+48. The framing of a jigsaw can cost several times the _____ price of the jigsaw.
+A.origin            B.original          C.form              D.formal            
+
+49. Jenny used to enjoy _____ the Christmas tree.
+A.decorating        B.covering          C.dressing          D.honouring         
+
+50. Everyone can _____ from reading this book.
+A.profile           B.proper            C.profit            D.project           
+
+51. I enjoy reading _____ novels and scientific journals. 
+A.fection           B.fiction           C.faction           D.function          
+
+52. The book discusses the _____ and emotional needs of young adults.
+A.phisyic           B.physics           C.physical          D.physic            
+
+53. Bill finished second in his _____. 
+A.heat              B.heater            C.heating           D.hot               
+
+--------------------------------------------------------------------------------
+PART 2
+--------------------------------------------------------------------------------
+54. A crowd of about 200 people gather around the stage to watch the Cleckheaton speed knitting championships.
+A.大约有两百人聚集到一起，观看克莱克希顿参加毛衣编织锦标赛的速度之快。
+B.大约有两百人赶来克莱克希顿观看该地组织的速度编织比赛。
+C.大约有两百人聚集在看台周围观看克莱克希顿公司毛衣编织竞速锦标赛。
+
+55. One of Australia's few such competitions, it attracts the heavyweights of the Victorian knitting scene.
+A.作为澳大利亚同类比赛中的佼佼者，该锦标赛吸引了维多利亚风格毛衣编织的老手。
+B.作为澳大利亚为数不多的此类比赛，该锦标赛吸引了维多利亚地区毛衣编织界的重量级人物。
+C.作为澳大利亚编织比赛中的一个，该锦标赛吸引了很多对维多利亚毛衣编织感兴趣的人。
+
+56. In an exclusive post-match interview, Smith told ‘EG’ that...she has had the past year off to take care of her new-born child.
+A.在赛后深入采访中，史密斯告诉当地电台说...她去年一年都没有照顾新生的宝宝。
+B.在赛后独家采访中，史密斯告诉《娱乐指南》说...她去年为了照顾新生的宝宝而停了一年。
+C.在赛后特别报道中，史密斯告诉《鸡蛋杯》说...她去年照顾新生的宝宝,一年都没参加赛事了。
+
+57. After winning her heat, she went home and did a few practice rows, to get back into form.
+A.预赛获胜之后，她回家也只是练习织了几排毛衣以恢复状态。
+B.赢得热心观众之后，她回家做了几次演练，以调整心态。
+C.获得参赛资格之后，她回家进行训练，以获得昔日的信心。
+
+58. All across the world people are investing copious amounts of time, money and effort into hobbies. 
+A.世界各地的人们投资在兴趣爱好上的时间、金钱和精力相差不多。
+B.世界各地的人们都为了投资花费数额不等的时间、金钱和精力。
+C.世界各地的人们都在爱好上投入大量的时间、金钱和精力。
+
+59. According to Meares, a hobby must have a physical element to it. 
+A.米尔斯认为爱好必须是有形实在的。
+B.米尔斯认为爱好必须创造实物给她。
+C.米尔斯认为爱好必须是有物理学基础的。
+
+60. That doesn't mean she'll toss the egg-cups in a box and put them up for sale at the next market.
+A.这并不意味着她会把蛋杯装进箱子拿到其他市场廉价抛售。
+B.这并不意味着她会把蛋杯都扔在箱子里拿到下次集市上出售。
+C.这并不意味着她会把蛋杯都扔在箱子里，供来年集市销售。
+
+61. I love the feel of markets and being out among people early in the morning.
+A.我喜欢集市的感觉，喜欢清晨到户外和人们在一起的感觉。
+B.我喜欢清晨到户外和家人一起逛集市的感觉。
+C.我喜欢喜欢一大早就和很多人一起去赶集市的感觉。
+
+62. A lot of model makers are members of modeling clubs (such as the International Plastic Modelers Society).
+A.许多模型都是模型制作俱乐部（如国际塑料模型制作团体）成员制作的。
+B.许多模型制作者组织了各式各样的俱乐部（如国际塑料模型制作大会）。
+C.许多模型制作者是模型制作俱乐部（如国际塑料模型制作者协会）的成员。
+
+63. Teapot collectors are predominantly female, although buyers are often couples looking for something nice to put on the sideboard. 
+A.尽管购买茶壶的往往是一些寻找漂亮东西放在餐桌柜上的夫妇，但茶壶收藏者大部分都是女性。
+B.茶壶收藏者原先都是女性，不过后来购买茶壶的往往是一些寻找漂亮东西放在餐桌柜上的夫妇。
+C.茶壶收藏者以女性为主，而非仅仅是那些寻找漂亮东西放在餐桌柜上的夫妇。
+
+64. After a sharp blow on the starter's whistle, the knitters' hands fly across the needles.
+A.发令员用力吹响哨子之后，编织者们的双手在毛衣针之间上下翻飞。
+B.发令哨声一阵尖啸之后，只见编织机的机械双臂在毛衣针之间飞舞。
+C.随着第一个编织者吹响哨子，织针开始在毛线之间飞快穿梭。
+
+65. At the end of a tense 10 minutes, Jenny Smith, from Cranbourne, has emerged the winner with 23 rows and 11 stitches.
+A.在紧张的10分钟之后，来自克兰伯恩的詹妮·史密斯以23排11针的成绩胜出。
+B.足足10分钟之后，来自克兰伯恩的詹妮·史密斯才以领先23排11针的成绩显现出优势。
+C.在激烈的10分钟之后，克兰伯恩的詹妮·史密斯以23排11针的差距输给冠军。
+
+66. Hobbies range from collecting stamps, cigarette packets and bottle openers to bungee jumping.
+A.爱好的培养可以从收藏邮票开始做起，再到包装香烟，从开瓶子再到蹦极。
+B.从收藏邮票、香烟盒、开瓶器到蹦极,都算是爱好。
+C.可以从收藏邮票、香烟盒，开瓶子和蹦极等活动中，选择自己的爱好。
+
+67. Meares has been tinkering with silver for more than 20 years and has since taken up collecting Victorian silver. 
+A.米尔斯修补银器已有20多年，并自此开始收藏维多利亚地区的银器。
+B.米尔斯积攒银器已有20多年，因此收藏着维多利亚制作的银器。
+C.米尔斯对银器情有独钟已有20多年，并一直收藏维多利亚时期的银器。
+
+68. I think there's going to be a bit of a boom in the craft side of hobbies.
+A.我想人们对手工技艺的爱好将会有所增加。
+B.我觉得人们对手工技艺的爱好将会渐渐冷淡。
+C.我认为有技术含量的爱好将会有更好的前景。
+
+69. Model train operation and model plane construction attracts a somewhat different crowd of practitioners.
+A.制作火车模型和设计飞机模型吸引着特别的一群医生。
+B.修理火车模型和组装飞机模型吸引着一些执着的手工爱好者。
+C.操控火车模型和制作飞机模型吸引着颇为不同的一群人。
+
+70. I can spend much of my time in a small bar discussing the world with friends over a real ale.
+A.我经常在小酒吧里和朋友讨论世界性问题，只要给我一杯酒。
+B.我经常喝完啤酒还在酒吧里呆很长时间，与朋友们探讨这世界。
+C.我可以长时间地呆在小酒吧里，一边喝着啤酒一边和朋友们探讨世界。
+
+71. Despite the break, she said she had had minimal preparation for the competition 
+A.她说虽然中断了一年，她为这次比赛所做的准备也足够了。
+B.正因为中断了一年，她说她为这次比赛做了充分的准备。
+C.她说虽然中断了一年，她为这次比赛所做的准备也极少。
+
+72.  A prolific modeler could keep his or her “habit” going for $50 a week.
+A.一个多产的模型制作者可以每周花50澳元来维持他或她的“习惯”。
+B.一个狂热的模型制作者保持着每周花至少50澳元的“习惯”。
+C.一个有创造力的模型制作者每周可以用他或她的“习惯”挣50澳元。
+
+73. I enjoy sampling new foods.
+A.我喜欢展示新奇食物。
+B.我喜欢收藏食物的新品种。
+C.我喜欢品尝各种新食物。
+
+74. There will always be further bits to add and changes to be made to your affinity diagram.
+A.你的关系图表上总有东西可以加，也总会有要更改的地方。
+B.你的相邻图表上总有更多的点可以增加和修改。
+C.你的位置图上总有更远的地方可以去，也总会有要改变的地方。
+
+75. My inquisitive mind likes to know how things work!
+A.我总是很好奇，想知道事物是如何运作的！
+B.我的脑海中总有具体的问题，想知道人们是如何工作的！
+C.我很好强，想知道世界上所有东西怎么操作！
+
+76. I enjoy various sports and activities such as running and squash.
+A.我喜欢不同的体育和活动，从跑步到种南瓜都算在内。
+B.我喜欢各种体育活动，比如跑步、壁球。
+C.我喜欢跑步等体育项目和参加热闹集会这样的各种活动。
+
+77. The relentless pursuit of a hobby can sap a person's energy.
+A.对爱好不刻意的保持可以释放人的能量。
+B.对爱好坚持不懈的追求会消耗一个人的精力。
+C.热切追随自己的爱好能让人精力充沛。
+
+78. Pots at the show ranged between $50 and $625, and collectors came from a broad cross-section of socio-economic backgrounds.
+A.准备出售的茶壶价格从50澳元到625澳元不等，收藏者来自不同的社会经济背景。
+B.展出的茶壶价格从50澳元到625澳元不等，收藏者来自不同的社会经济背景。
+C.电视节目上的茶壶价格从50澳元到625澳元不等，收藏者来自不同的社会小区。
+
+79. The first couple of hours will be filled with a frenzy of writing and grouping post-its, you should then sleep on the results. 
+A.最初的几个小时你将会不停地写、不停地整理报事贴，然后你就应该睡睡觉再看结果。
+B.最初的几个小时你将会不停的写、不停的整理报事贴，然后你就应该歇歇等结果。
+C.最初的几个小时你将会不停的写、不停的整理报事贴，等结果出来后你再睡觉。
+
+80.  Her hobbies are just a “bit of occupational therapy.”
+A.她的各种爱好只不过是对职业生活的一点补充。
+B.她的各种爱好只不过“有点职业人士的意味”。
+C.她的各种爱好只不过“有点像职业治疗法”。
+
+--------------------------------------------------------------------------------
+PART 3
+--------------------------------------------------------------------------------
+81. Why does Meares believe that energetic people are those who have hobbies? ("Hooked on Hobbies")
+A.Because the pursuit of specific hobbies takes up a lot of energy.
+B.Because specific hobbies take up a lot of people's time. 
+C.Because people who are not energetic do not have hobbies.
+D.Because only people with energy will enjoy their life.  
+
+82. What is the reason for Meares' passion for egg-cups? ("Hooked on Hobbies")
+A.They are profitable.
+B.They are inexpensive.
+C.She can meet kindred spirits.
+D.She can recruit students.
+
+83. Who would like to collect teapots? ("Hooked on Hobbies")
+A.Couples who love pretty things.
+B.Housewives who host many guests.
+C.Practical collectors.
+D.People from different backgrounds.
+
+84. What can be inferred about Graham Owens? ("Hooked on Hobbies")
+A.He is young and humorous.
+B.He is from a poor family.
+C.He is money-oriented.
+D.He is loving and patient.
+
+85. Which of the following haven't the authors mentioned as a necessary component in a hobby? ("Hooked on Hobbies")
+A.Passion.          B.Talent.           C.Money.            D.Time.             
+
+86. What does a hobby mean to people like the elite knitters in the Cleckheaton speed knitting championship? ("Hooked on Hobbies")
+A.A gift that few people have.
+B.An obsession and even a job.
+C.Something to demonstrate their knitting skills in public.
+D.A prize of $1000.
+
+87. What does Meares feel about young people's lack of interest in the hobbies their parents' generation used to have? ("Hooked on Hobbies")
+A.She shows great concern about it.
+B.She is disappointed and feels hopeless.
+C.She is understanding and optimistic.
+D.She does not care about it.
+
+88. What might cost a jigsaw lover more money than the jigsaw itself? ("Hooked on Hobbies")
+A.Framing.          B.Shipping.         C.Manuals.          D.Membership.       
+
+89. Why doesn't Meares consider reading a hobby? ("Hooked on Hobbies") 
+A.She hates reading.
+B.She thinks it's not physical.
+C.She is not good at it.
+D.She thinks books are expensive.
+
+90. What is Meares going to do with her collection of egg-cups? ("Hooked on Hobbies")
+A.Give it away.     B.Sell it.          C.Put it in a box.  D.Expand it.        
+
+91. Which of the following hobbies is suitable for people who prefer to admire other people's creativity? ("Hooked on Hobbies")
+A.Speed knitting
+B.Jigsaw puzzles.
+C.Model plane construction.
+D.Teapot collecting.
+
+92. What can be known about Meares' family according to the passage? ("Hooked on Hobbies")
+A.They are rich.
+B.They are poor.
+C.They like physical exercises.
+D.They like to collect things.
+
+93. How many hobbies are described in the passage? ("Hooked on to Hobbies")
+A.Four.             B.Five.             C.Six.              D.Seven.            
+
+94. Which of the following is NOT true of Ravensburger jigsaw puzzles? ("Hooked on Hobbies")
+A.Some people buy and keep the jigsaw puzzles for themselves.
+B.Most of them are bought as gifts.
+C.They fall apart when they are picked up by the corner.
+D.Rembrandts and Renoirs are common pictures for framing.
+
+================================================================================
+II. 填空题：
+--------------------------------------------------------------------------------
+95. The injured athlete has been working with doctors, trying to get back ______   ||    ______ (恢复状态).
+
+96. The knitters are ______   ||    ______ (并非唯一) in their enthusiasm.
+
+97. He has ______  his savings ______  (投资于) stocks and bonds.
+
+98.  The jigsaw picture is reprinted at a 90-degree angle on the ______   ||    ______ (反面) of the pieces.
+
+99. These 3-D jigsaws won the " G______  of the Y______  " (年度游戏) award last year. 
+
+100. The children learn singing, dancing, drawing, and ______   ||    ______(等等 <意思接近于so on>) in the kindergarten.
+
+101. He loves ______   ||    ______ (集邮). 
+
+102. The gallery's ______  teapot ______  (年度秀) attracts many visitors. 
+
+103. He says there is ______   ||    ______ (没有利润) in it for him--it is just a hobby. 
+
+104. The English have a ______   ||    ______ (对…有激情/酷爱) gardens. 
+
+105. She ______   ||    ______ (开始从事) the guitar at age 11.
+
+106. He bought another rare coin to ______   ||    ______ (扩充，加大) his collection.
+
+107. She was ______   ||    ______ (受聘) as a trainee.
+
+108. I s______  a______  (偶然发现) the book by chance.
+
+109. Stansted Airport was put up ______   ||    ______ (被拿来出售) yesterday.
+
+110. For these knitters, a hobby has ______   ||    ______ (接近于) an obsession.
+
+111. A good film needs to have something ______   ||    ______ (有些特别之处)  in addition to the surface subject matter.
+
+112. After ______   ||    ______ (拆开)  the organ, Owens finds he often has to make new components from pieces of metal.
+
+113. It is said that the framing can cost several times the ______   ||    ______ (原本的价格) of the jigsaw puzzle. 
+
+114. He sells the finished items in ______   ||    ______ (古董店).
+
+115. The ______   ||    ______ (不懈的追求) of a hobby can sap a person's energy.
+
+116. If you would like to work on a l______ s______  (更大规模) item, you could try organ restoration. 
+
+117. Stop t______   ||    ______ (修补，摆弄)  my television and take it to the repair shop.
+
+118. Thanks but dancing is not ______   ||    ______ (不是我的拿手戏，我不在行) . 
+
+119. I believe that she and I are ______   ||    ______ (志同道合的人) .
+
+120. For those who prefer to admire other people's creativity, the hobby of teapot collecting is ______   ||    ______ (值得考虑).
+
+121. Prices of the books may ______   ||    ______ (从...到...不等) $5 to $75.
+
+================================================================================
+III. 完形：
+--------------------------------------------------------------------------------
+122. 
+
+
+123. Hobby __(1)__ know that spare time is not to be "spent" but savored. If you have a pastime you enjoy, you will never look at your spare time in the same way again.Many people listen to music as a __(2)__ pastime. There is much you can learn about any style of music. You can learn __(3)__, famous melodies, and all about performers, past and present. You can develop sophisticated __(4)__ in jazz or classical music or collect a large assortment of CD's. A lot of people love animals. Pets of all __(5)__ can become your hobby. Perhaps you enjoy watching birds. If you have trouble finding them the trees to watch, maybe you'd like to get a pair of canaries (金丝雀), or a budgie (虎皮鹦鹉). Perhaps you can even raise some __(6)__ winners!Dogs __(7)__ a great hobby, too. Walking and enjoying a pet dog is one thing, but __(8)__ and raising show dogs is something else entirely. Show dogs may require a bit of an __(9)__, but many puppies are free. There is also the aspect of training a dog in obedience. Dogs give a lot of love back to their owners, too, so if you start a pastime hobby of __(10)__ for a dog, you will never be lonely. The world is full of interesting things to learn and do. Don't merely sit back and watch TV. Get interested in a past time hobby. It's good for your mind. 
+points/caring/favorite/give/enthusiasts/ breeding/make/sorts/tastes/investment/playing/composers/prize/talking/accounting
+
+答案
+1. A
+2. D
+3. B
+4. C
+5. A
+6. C
+7. B
+8. D
+9. B
+10. B
+11. C
+12. C
+13. D
+14. B
+15. A
+16. D
+17. D
+18. D
+19. C
+20. A
+21. A
+22. A
+23. B
+24. C
+25. D
+26. A
+27. C
+28. A
+29. B
+30. A
+31. A
+32. B
+33. C
+34. B
+35. A
+36. C
+37. D
+38. A
+39. C
+40. B
+41. C
+42. B
+43. D
+44. A
+45. C
+46. B
+47. A
+48. B
+49. A
+50. C
+51. B
+52. C
+53. A
+54. C
+55. B
+56. B
+57. A
+58. C
+59. A
+60. B
+61. A
+62. C
+63. A
+64. A
+65. A
+66. B
+67. A
+68. A
+69. C
+70. C
+71. C
+72. A
+73. C
+74. A
+75. A
+76. B
+77. B
+78. B
+79. B
+80. C
+81. A
+82. C
+83. D
+84. D
+85. B
+86. B
+87. C
+88. A
+89. B
+90. D
+91. D
+92. D
+93. C
+94. C
+95. into form
+96. not alone
+97. invested in
+98. reverse side
+99. Game Year
+100. the like
+101. collecting stamps
+102. annual show
+103. no profit
+104. passion for
+105. took up
+106. add to
+107. taken on
+108. stumbled across
+109. for sale
+110. bordered on
+111. to it
+112. taking apart
+113. original price
+114. antique shops
+115. relentless pursuit
+116. larger scale
+117. tinkering with
+118. my bag
+119. kindred spirits
+120. worth considering
+121. range from
+122. d instantly support pays jealous negative identity matter personal gift
+123. siasts favorite composers tastes sorts prize make breeding investment caring

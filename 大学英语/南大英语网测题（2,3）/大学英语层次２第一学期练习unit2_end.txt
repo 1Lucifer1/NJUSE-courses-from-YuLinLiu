@@ -1,0 +1,545 @@
+大学英语层次２第一学期练习unit2_end
+Updated: Mon Dec 16 22:09:35 2013
+
+================================================================================
+INFORMATION:
+
+Program created by: ............................................... Luo Chenxing
+Platform: ............................................ Ubuntu 13.04 Python 3.3.1
+Program updated on: .............................................. Dec. 10, 2013
+
+Applause to those teachers who edited and arranged these exercises and to those engineers who run the online system.
+================================================================================
+
+================================================================================
+I. 选择题：
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+PART 1
+--------------------------------------------------------------------------------
+1. The RP (Received Pronunciation) is considered a _____ accent in the whole of the British Isles and British Commonwealth. 
+A.priority          B.preliminary       C.prestigious       D.precise           
+
+2. Before the rise of Standard English, all dialects were created equal and no one version of English ______ it over another. 
+A.lorded            B.took              C.landed            D.put               
+
+3. The government urged research into wind, tide, solar and nuclear technologies as ______ fuel sources.
+A.alternate         B.alternative       C.alter             D.alternating       
+
+4. He showed an unexpected aptitude for biomedical engineering and developed an ______ interest in the research of man-made heart .
+A.adorable          B.avid              C.advent            D.effective         
+
+5. The speakers of non-Standard English often have an unshakable inferiority ______ when RP (Received Pronunciation) and GA (General American) enjoy their cultural domination. 
+A.notion            B.compound          C.complex           D.habit             
+
+6. His lawyer told him that they would lose the case for the _____ judge didn't like new immigrants in this country.
+A.previous          B.prejudiced        C.disinterested     D.privileged        
+
+7. She could have been just another  ______ of race prejudice, but she succeeds by using her intelligence and determination. 
+A.incident          B.causality         C.casualty          D.accident          
+
+8. In places where laws are deficient or only ______ enforced, fighting corruption becomes a hard job
+A.separately        B.efficiently       C.sporadically      D.spontaneously     
+
+9. British English and American English share the ______ in some cases when they use different words to name the same thing.
+A.concepts          B.consents          C.concerts          D.consensus         
+
+10. He has thought of an ______ way to make new money from old songs. 
+A.initial           B.genius            C.ingenious         D.inherent          
+
+11. Her eyes scanned the room until they came to rest on a ______ figure standing at the entrance.
+A.diminishing       B.diminutive        C.deductive         D.declining         
+
+12. If steak is too expensive,  people shift to hamburger for ______. 
+A.institution       B.substitution      C.subscription      D.submission        
+
+13. Some people still cling to the _______ that British English is superior to any other English variety. 
+A.nutrition         B.nation            C.notion            D.motion            
+
+14. The jealous man was _____ on his wife's conversations while she's talking to a man gaily in the telephone.
+A.overhearing       B.eavesdropping     C.listening         D.hearing           
+
+15. We ______ with the handicapped, but we don't give them the due rights or respect their behavior. 
+A.pity              B.syndicate         C.synthesize        D.sympathize        
+
+16. The advent of the automobile may have ______ the growth pattern of the city.
+A.altered           B.alternated        C.aliened           D.alleged           
+
+17. He ______ two doctors discussing his case when he passed by their office and was shocked by the terrible condition.
+A.glance            B.eavesdropped      C.overheard         D.glimpsed          
+
+18. This book is a work of _______ scholarship and could easily serve as a standard textbook for students of linguistics. 
+A.imperfect         B.impeccable        C.improper          D.impermanent       
+
+19. She felt _______ by the beauty of the night in the countryside of Provence.
+A.intolerant        B.integrated        C.intoxicated       D.intimidated       
+
+20. I was horrified when some white girls ______ my dignified grandmother.
+A.tormented         B.suffered          C.sealed            D.withdrawn         
+
+21. Countries and regions should _____ long-term plans to prevent garbage from ending up in the oceans.
+A.adore             B.adept             C.adapt             D.adopt             
+
+22. The _____ look on the waiter's face hurt me severely when I failed to follow his standard British English. 
+A.weathering        B.withering         C.wizened           D.drooping          
+
+23. In her childhood, Angelus encountered ______ discrimination when she was refused by a white dentist. 
+A.overt             B.covert            C.over              D.cover             
+
+24. Card makers ______  added the cost of the postage to the price of the card.
+A.presumingly       B.presumably        C.preferentially    D.precisely         
+
+25. Kids really like iPad because it's a ______ and it's something different.
+A.newest            B.ingenuity         C.novelty           D.originality       
+
+26. The adopted girl was always silent and _____ although her adoptive parents loved her very much. 
+A.overdrawing       B.withstanding      C.withdrawal        D.withdrawn         
+
+27. Three years after Pearl Harbor, the economy was booming, and the stock market had gained 81.4 percent ______.
+A.cumulatively      B.accumulative      C.diminutively      D.accumulating      
+
+28. Sometimes eccentric, sometimes controversial, Amos has always created music that is ______ her own.
+A.distinctly        B.distinguishably   C.distinctively     D.distinguishing    
+
+29. It's been believed for centuries that great writers, composers, and scientists are______ quite different from ordinary people.
+A.effectively       B.essentially       C.efficiently       D.eccentrically     
+
+30. They ______ the vase, having no idea that it was actually a valuable antique of ancient China. 
+A.distorted         B.dismissed         C.discharged        D.discarded         
+
+31. Many words in English are _____ from other languages. 
+A.transformed       B.lent              C.imported          D.exported          
+
+32. Mr. Leach is on holiday and was not ______ for comment.
+A.avail             B.accessible        C.available         D.able              
+
+33. The black woman reacted strongly to the ______ she suffered in the restaurant.
+A.justification     B.judgment          C.justice           D.injustice         
+
+34. The defeated candidate gave a ______ speech in which he congratulated his rival. 
+A.dignified         B.dignity           C.respecting        D.respective        
+
+35. The victory recalled _____ memories of his championship-winning days.
+A.glorious          B.gracious          C.graceful          D.glory             
+
+36. Singlish is a _____ of English and words in languages from neighboring countries of Singapore. 
+A.mix               B.blend             C.bland             D.melt              
+
+37. As the greatest anthropologist in the recent three decades, his lifetime of ______ will benefit the future students in the long run. 
+A.intellectuality   B.academic          C.scholar           D.scholarship       
+
+38. Good videos don't have to be big Hollywood productions to be ______ and effective.
+A.engaging          B.engaged           C.restrictive       D.fascinated        
+
+39. He sat alone in his room after the battle, ______ over the loss of his best friend.
+A.muttering         B.grumping          C.bending           D.mourning          
+
+40. Public schools in the United States are becoming more racially ______ and the trend is likely to accelerate due to the rising discrimination. 
+A.melted            B.blend             C.separated         D.segregated        
+
+41. The camps ______ from luxury suites to basic pup tents, and prices reflect the differences.
+A.pass              B.vary              C.very              D.shift             
+
+42. The accent of English has been used as an instrument of social ______ when speakers of non-standard English accents find themselves working harder at the social ladder. 
+A.inclusion         B.exclusion         C.exclusive         D.inclusive         
+
+43. Mark Zuckerberg and his team are ______ that so many people are interested in trying out a new approach to online sharing.
+A.panic             B.saddened          C.hilarious         D.thrilled          
+
+44. Obama said last week the US strongly ______ the use of inhumane violence in Libya.
+A.consented         B.considered        C.condemned         D.concerted         
+
+45. What impressed me most in my first visit to the US is the cultural ______ in that country. 
+A.diversity         B.diverse           C.dominance         D.exclusion         
+
+46. The woman, in a ______ rush of excitement, hit the mayor with her purse to protest the soaring prices. 
+A.feverish          B.frenzied          C.fervent           D.ferocious         
+
+47. The actor ______ the President very accurately.
+A.stimulated        B.copied            C.minimized         D.mimicked          
+
+48. I got to New York on a _____ warm day and the bright sunshine made me in a good mood. 
+A.gloomily          B.pleasantly        C.pleasingly        D.pleasurably       
+
+49. National leaders will have to ______ the highest skills of statesmanship.
+A.play              B.display           C.dispense          D.displease         
+
+50. He believes that the _____ are against the plan going ahead.
+A.lots              B.odds              C.policy            D.chance            
+
+51. If we learn English in a place where a certain English variety has the historically  ______ influence, our English will bear the distinctive features of that variety. 
+A.previous          B.predominant       C.presidential      D.presume           
+
+52. Her cold attitude is ______ to her friends for she used to be a very nice and helpful person. 
+A.align             B.familiar          C.alien             D.allied            
+
+53. She was in bed and her suffering look told that she was ______ in great pain.
+A.sufficiently      B.efficiently       C.efficaciously     D.evidently         
+
+54. There are numerous _____ difference between American English and British English. 
+A.distinguished     B.remarked          C.noticing          D.noticeable        
+
+55. Every day of our lives we ______ major and minor stresses of one kind or another.
+A.account           B.counter           C.encounter         D.appear            
+
+56. He had to undergo one ______ after another as a child from a single-parent mother. 
+A.humility          B.victory           C.dignity           D.humiliation       
+
+57. Phelps, as one of  the most _____ swimmers in the world, began swimming at the age of seven. 
+A.talent            B.gifted            C.genius            D.endowed           
+
+58. Some economists hold that technological changes will ______ lead to unemployment.
+A.inevitably        B.invulnerably      C.inappropriately   D.inexorably        
+
+--------------------------------------------------------------------------------
+PART 2
+--------------------------------------------------------------------------------
+59. If you learn English in a part of the world where British influence is historically predominant, you will end up speaking a variety of English which has a distinctively British character. 
+A.如果你的英语是在历史上一直受英国统治的地区学的，那你最终会学习一种带有独特英国特点的英语。 
+B.如果你在一个长久以来深受英国影响的地区或国家学英语，最终你会讲一口独具特色的英式英语。 
+C.如果学英语时，你所在的地区深受英国影响，最终你讲的英语会区别于英式英语。 
+
+60. The most noticeable differences, thanks to Noah Webster, are in the spelling, but even there we are talking about only a few common alternatives, such as color vs. color, and only a few hundred in all.  
+A.多谢诺亚·韦伯斯特，英式英语和美式英语之间最显著地区别在于拼写，但是只不过是一些常见的拼写差异，例如美式英语中的color和英语英语中的color，一共也只不过几百个。 
+B.（美国词典编纂家）诺亚·韦伯斯特指出，拼写是英式英语和美式英语间最显著的差异，但即便如此，也只是一些常见的变化，一共也不过几百个单词，比如color(美式)和color（英式）。 
+C.正是有了诺亚·韦伯斯特，我们才能发现英式和美式英语间的最显著地差异，它在于单词的拼写，但是在那里我们只是在讨论一些共同的替代品，比如color和color，一共也只有几百个。 
+
+61. Far more difficult is when we don't, as in the alien lexical world (to British ears) of baseball and the correspondingly alien world (to American ears) of cricket. 
+A.当两种英语的词汇不共享同一概念时更困难，正如在英国人的耳朵里棒球词汇是陌生的，而在美国人耳朵里板球词汇是陌生的。
+B.这个时候我们比比个不觉得更困难，比如对于英国人的耳朵棒球的词汇世界时陌生的，而对于美国人的耳朵，曲棍球的词汇世界也是陌生的。
+C.更困难的是有时英式和美式英语的词汇并不共指同一概念，例如英国人对（流行美国的）棒球运动中的词汇非常陌生，而相应地（英国人喜爱的）板球运动中的词汇对美国人也非常生疏。 
+
+62. They live in Amsterdam, and his recent visit to Britain was his first close encounter with British English on home soil. 
+A.他们住在阿姆斯特丹，最近他到英国来，这是他第一次近距离在英国本土接触到英国英语。
+B.他们住在阿姆斯特丹，他们最近来英国是在故乡的土壤上与英式英语第一次较近的偶遇。
+C.他们住在阿姆斯特丹，这是他最近一次来英国，他第一次接触家乡土壤上的英式英语。
+
+63. Probably the most famous early reference is from a totally unexpected source. 
+A.也许较早的最著名的参考来自于一个全部为人所知的出处。
+B.早期最为人所知的提及棒球的文字或许来自一个完全出乎意料的出处。
+C.最出名也最早的参考文献也许来自一个完全出乎意料的来源。
+
+64. Standard English, which he describes as an instrument of social exclusion and cultural domination, is more secure than ever, the preferred language of international communication. 
+A.他形容标准英语是一种社会排斥和文化统治的工具，但作为国际交流中的首选语言，它的地位却比以往更稳固。
+B.标准英语被他形容成一种社会排挤和文化主导的工具，比以往更安全，是国际交流中最受宠的语言。
+C.标准英语是一种社会排斥和文化统治的仪器，他认为应该把它作为国际交流的语言，它一定更令人偏爱和保险。
+
+65. They were living in a linguistic paradise, a time, before the rise of Standard English, when all dialects were created equal and no one version of English lorded it over another. 
+A.他们居住在一个语言天堂，一个时代，在标准英语出现之前，所有的方言都是平等的，没有一种英语的版本高于另一种。
+B.他们居住在语言的天堂，在标准英语诞生之前，这个时代中所有的方言都是平等的，没有一种英语的版本统治另一种。
+C.他们生活在一个语言的天堂，在那个时代，标准英语还没有兴起，所有方言都生而平等，没有一种英语的变体凌驾于另一种之上。
+
+66. In his way of redressing the "traumatic consequences" inflicted by Standard English, whose 200-year-reign of terror, administered by grammarians and prescriptivists and usage busybodies, let speakers of non-Standard English with an unshakable inferiority complex.
+A.这是他重新讨论标准英语带来的严重后果的方式，标准英语统治了200年，是由语法学家、语法规范派和惯用法支持者具体实施的，这造成了非标准英语的使用者不可动摇的自卑情结。
+B.用自己的方式，他重新讨论了标准英语带来的严重后果，标准英语近200年的统治是由语法学家、语法规范派和爱管闲事的使用者实施的，并使得非标准英语的使用者自卑情结不可动摇。
+C.这是他用自己的方式补救标准英语带来的"令人痛苦的后果"，标准英语200年的恐怖统治给讲非标准英语的人们留下了根深蒂固的自卑情结。这都是那些语法学家、语法规范派和对语言使用惯例纠缠不休的人一手操纵的。
+
+67. Cleverly, he has sprinkled the book with little digressions, set apart in boxes, that address historical mysteries, strange loanwords, interesting etymologies and the like. 
+A.在书中，他很聪明地零星穿插了一些题外内容，它们被单独放在小框里，都是一些有关英语的历史谜团、奇怪的外来词和有趣的词源等等。
+B.聪明地是，他在书中偶然提到了一些小故事，单独地放在了小盒子里，讨论了一些历史秘密、奇怪的外来词、有趣的词源等等。
+C.在书中他很聪明地几乎没有提到奇闻轶事，只是在一些小框里讨论了一些历史秘密，奇怪的借来之词，有趣的词源等等。
+
+68. Weekdays revolved in a sameness wheel. They turned into themselves so steadily and inevitably that each seemed to be the original of yesterday's rough draft.
+A.每周几个工作日就是一只不变的转轮，坚定不移不可阻挡地转回原点，每一天都好像是昨天的翻版。
+B.工作日以同样的速度循环着，稳定地无可避免地变成另一个自己，每一天都像是昨天草稿的原作。
+C.日子以同样的方式前进着，稳定地不可避免地变成他们自己，每一天都像是昨天的复制。
+
+69. Next comes vocabulary -- encountered more sporadically than spelling, but cumulatively much more important.
+A.其次是词汇上的差异，它不如拼写上的差异那么常见，但是其重要性累计起来要大得多。
+B.接下来的是词汇，比起拼写要更少碰见，但累计要重要的多。
+C.其次是词汇，比起拼写，它呈零星的分布状态，但是累计更为重要的多。
+
+70. When Chaucer's pilgrims set out for Canterbury on that famous April morning, they were in a good mood, and rightly so. 
+A.当乔叟的朝圣者决定在那个著名的四月清晨出发去坎特伯雷时，他们兴高采烈，理所应当如此。
+B.在那个众所周知的四月清晨，当乔叟笔下的朝圣者向着坎特伯雷出发时，他们心情愉快，一定是的。
+C.当乔叟那个地方的朝圣者在著名的四月清晨出发去坎特伯雷时，他们心情很好，正当如此。
+
+71. He intends to tell the multiple stories of English, giving full value to alternative forms of the language and shining a nonjudgmental light on newer variants and influences, from the Internet to the "newest New Englishes" like Tex-Mex and Taglish, a blend of English and Tagalog spoken in the Philippines. 
+A.他意在讲述许多有关英语的故事，并给予这门语言的不同变体高度的评价，使人们毫无偏见地了解更新的英语变体及其影响，其中包括网络英语和“最新的新英语”，比如美国和墨西哥边境地区的英语，又比如在菲律宾使用的塔加拉英语 -- 一种英语和塔加拉族语的混合语。
+B.他想讲述许多有关英语的故事，并对这门语言的取舍给予重视，从而用不带偏见的目光去照耀更新的英语变式及其影响，从网络英语和最新的新英语变体，比如德克萨斯州墨西哥英语，和在菲律宾使用的混合了英语和塔加拉族的塔加拉英语。
+C.他意在讲述许多有关英语的故事，并给予不同的英语变体充分的价值，从而不带偏见去揭示新的英语变式及其影响，从因特网到最新的英语变体，比如美国-墨西哥英语，和菲律宾的英语和塔加拉族的混合语--塔加拉英语。
+
+72. She worked the thread through the flowered cloth as if she were sewing the torn ends of his life together. 
+A.她用线穿过一块花布，好像要把她生活破了的两端缝补起来。
+B.她把线穿过一块花布，好像在把她破碎的生活两端连接起来。
+C.她穿针引线，缝着一块花布，好像在缝补她支离破碎的生活。
+
+73. A group of diminutive children walked past all wearing sweaters that said Giants.
+A.一群矮小的孩子走来，经过所有写着“巨人”的令人讨厌的套头衫。
+B.一群极小的孩子走过来，穿着套头衫，嘴里喊着“巨人”。
+C.一群小孩子走过去，他们都穿着印有‘巨人’字样的套头衫。
+
+74. Actually, Americans shouldn't be too quick to condemn Brits, seeing as the name of the game is a British import in the first place. 
+A.实际上，美国人不应该太急躁以至于不责怪英国人，因为首先名义上这个比赛的名称就来自于英国。
+B.实际上，美国人不应该太快，责怪英国人是因为他们把这个运动的名字看作是从英国进口而来的。 
+C.实际上，美国人不应该急着谴责英国人， 因为这一运动的名称最初还是从英国引进的呢。。
+
+75. He gets down to work and, in lively, thoroughly standard English, traces the development of the language that he so obviously loves, in all its quirks and historical oddities. 
+A.他着手开始工作，并且用标准英语生动地、彻底地用完全古怪的方式追述了他所热爱的英语的发展。
+B.他开始着手研究，都是以奇闻和古老异事的形式，用规范的英语生动、透彻地回顾了他所深爱无疑的这门语言的发展。
+C.他坐下来开始工作，并且对于他无疑非常热爱的英语，他用标准英语生动地、彻底地追述了这门语言发展的古怪之处。
+
+76. These (American English and British English) are the two major world varieties.
+A.这些（英国英语和美国英语）是主要世界变化的根源。
+B.这些（美国英语和英国英语）是世界上两种主要的英语变体。
+C.这些（美国英语和英国英语）是两种主要的变化中的世界语言。
+
+77. Think of it as a handicap, and sympathize.
+A.就把这当成是他们的一种缺陷，同情他们吧。
+B.把他们当成是弱者来同情吧。
+C.把他们当成是残疾人来体谅吧。
+
+78. Quite plainly the only reason there were rules in the English Language was to bend and break them, to maximum effect. 
+A.显而易见，英语中存在规则的唯一原因是可以打破和改变这些规则，以期达到最佳效果。
+B.很普通的一个原因是，英语有规则的唯一原因是在最大程度上扭曲和打破这些规则，最后达到预期效果。
+C.很简单，在最大程度上扭曲和打破这些规则的唯一原因是因为英语有规则，这些规则能达到最后效果。
+
+--------------------------------------------------------------------------------
+PART 3
+--------------------------------------------------------------------------------
+79. From "Walking English",  a dusbin in British English is called a  __________ in American English.
+A.garbage busket    B.dump pit          C.trash can         D.garbage can       
+
+80. From "Walking English", the author cites the conversation between a couple at a nearby table to illustrate _________.  
+A.grammatical difference between American English and British English
+B.American way of greetings
+C.difference in the vocabulary of the two varieties
+D.American way of bending rules in the English language
+
+81. From "Walking English", when the author notes "Think of it as a handicap, and sympathize", his tone is _________.
+A.sarcastic         B.distressed        C.humorous          D.ironical          
+
+82. From "English: Out of Many, one and Then Many",  what genre is this passage?
+A.Book report.      B.Argumentive.      C.Descriptive.      D.Narritive.        
+
+83. From "English: Out of Many, one and Then Many", what does the author think of The Stories of English?
+A.It can be served as a standard textbook for studnets of linguistics.
+B.It can be used to learn British history.
+C.It can be used for foreign students who want to enlarge their vocabulary.
+D.It can be served as a grammatical book.
+
+84. From "Walking English", the author cites the example of his daughter Lucy and her husband Vincente ___________.
+A.to illustrate how a transnational marriage works with different languages spoken in it 
+B.to illustrate how the two major varieties of English are used in a transnational marriage 
+C.to illustrate how different some vocabulary can be between British English and American English
+D.to illustrate how different spellings work in a transnational marriage
+
+85. From "Walking English", in the author's opinion, if you learn English in America, ______ .
+A.your English will not be standard English
+B.you will behave like a native of America
+C.you can understand both British English and American English 
+D.your English will display American characteristics
+
+86. From "English: Out of Many, one and Then Many", what is the attitude of David Crystal towards the varieties of English?
+A.Admiring.         B.Hostile.          C.Disapproval.      D.Approval.         
+
+87. From "Walking English", the author distinguishes whether the Harry Potter book read at the next table was a British or an Americanized edition by _________.
+A.comparing the content
+B.reading the title
+C.consulting a dictionary
+D.asking the reader
+
+88. From "Varieties of English Language", the RP (Received Pronumciation) is considered a prestigious accent in _____.
+A.the whole of the British Isles and British Commonwhealth
+B.New Zealand, Australia, and South Africa
+C.the United States and Canana
+D.Latin America, England and Northern Ireland
+
+89. From "Walking English", the problem the author has encountered during his first visit to San Francisco is that __________. 
+A.he has difficulty finding the right place to have a diner-style breakfast
+B.he has difficulty getting accustomed to the American way of cooking
+C.he has difficulty understanding American English when ordering his breakfast
+D.he has difficulty reading the menu written in American English in the restaurant. 
+
+90. From "Walking English", the author discusses the major differences between British and American English in _________.
+A.spelling and vocabulary
+B.spelling and pronunciation
+C.pronunciation, vocabulary and grammar
+D.spelling, vocabulary and grammar
+
+91. From "Varieties of English Language", North American English ________.
+A.is inferior to British English
+B.is considered as a second language in The Great Britain
+C.is another form of standard English
+D.is not as widely used as British English
+
+================================================================================
+II. 填空题：
+--------------------------------------------------------------------------------
+92. The author writes with c______ c______ （非常地清楚） about the pains and joys of being black in America. 
+
+93. The trousers shrank when I washed them, but they were not really big enough i______ the ______ place (开始的时候). 
+
+94. The enchanting view in the countryside of Northern France t______ my f______ （吸引住了我）at once. 
+
+95.  T______||  ______ （由于） the advancement of science and technology, we live much longer than our ancestors. 
+
+96. The world community should not f______ || ______ （因…而退缩）the challenge of reducing toxic emission. 
+
+97. The two sides could then g______ d______  （坐下）to discussing the problems that still divide them. 
+
+98. If you don't know what you want, you might e______ || ______ （结束；以...告终） getting something you don't want. 
+
+99. B______ c______ (相反）, China adopts a monetary policy of currency inflation. 
+
+100. The administration is telling federal agencies to track the results of the research they fund so that money is spent to m______ e______ (最佳效果）. 
+
+101. The linguist David Crystal c______||  ______ (为……而欢呼) variety, diversity and equality of English around the globe. 
+
+102. You wouldn't normally a______ Hemingway w______ (和… 相联系) Charles Dickens because their styles are completely different. 
+
+103. The ball fans r______ || ______ （为……欢欣鼓舞）the news of their team's victory. 
+
+104. G______ t______ （查阅） his list of customers is a massive job. 
+
+105. Dr. Derek explained clearly possible treatments but she just couldn't t______ it ______ （听懂）. 
+
+106. With the development of network technologies, there has appeared a virtual society, a b______ - ______ (崭新的) social organization and form of survival. 
+
+107. Aton does remain excited about the prospect of an Olympic Games on h______ s______ （自己的国土）. 
+
+108. The non-governmental organization is committed to s______ l______ on （了解，弄清楚） domestic violence. 
+
+109. On each New Year's Eve , the Time Square is p______ || ______ （挤满了） millions of people, celebrating the coming of the new year. 
+
+110. This linguistic book by David Crystal r______ o______ to （面向） a more general audience as well to popularize the knowledge about language. 
+
+111. It is no use teaching the pupils to r______ o______ (滔滔不绝地背诵） the ancient poems which they do not understand at all. 
+
+112. In the middle of the night he was woken up by a sudden bang and s______||  ______ （坐起来）in panic. 
+
+113. As a successful writer, she knows how to b______ a s______ to life(栩栩如生地描述). 
+
+114. I'm p______||  ______ (本能的） wake up at seven each morning. 
+
+115. Farmers are pleased to see h______||  ______ (希望的迹象) of an rebound at the corn market. 
+
+116. Schools and universities in Europe have taught that variety of English is often r______ t______ as (称作)"British English". 
+
+117. Students in China are more likely to come into c______||  ______ (接触到) other varieties of English in addition to Received Pronunciation and North American English. 
+
+================================================================================
+III. 完形：
+--------------------------------------------------------------------------------
+118. English has evolved naturally as a global language over time, despite the attempts of various people to create artificial languages such as Esperanto, as global languages. English has 1_____ 370 million native speakers, born in the United Kingdom, the United States, Canada, Austrilia and other countries. However, it has been 2_____ that there are over a billion non-native speakers of English. Some people 3_____ think that English is a Romance language. It is rather a Germanic language which was heavily influenced by the Normans upon their 4_____ of England in 1066. The Normans eventually went on to become the French. The early Britons 5_____ many of the Norman word roots, which has resulted in many 6_____ between French and English today. Today, English is widespread. It is largely due to the fact that it is used so heavily in television, film and music. Hollywood's global 7_____ has contributed strongly to the international popularity of English. It is also the 8_____ language on the Internet. Pages in other languages even tend to have an English 9_____. The British Empire and the dominant nature of American 10_____ culture have contributed overall to the spread of English across the planet. 
+adopted, differences, predominant, official, approximately, estimated, similarities, popular, black, landing, spread, usually, conquest, mistakenly, translation
+
+答案
+1. C
+2. A
+3. B
+4. B
+5. C
+6. B
+7. C
+8. C
+9. A
+10. C
+11. B
+12. B
+13. C
+14. B
+15. D
+16. A
+17. C
+18. B
+19. C
+20. A
+21. D
+22. B
+23. A
+24. B
+25. C
+26. D
+27. A
+28. C
+29. B
+30. D
+31. C
+32. C
+33. D
+34. A
+35. A
+36. B
+37. D
+38. A
+39. D
+40. D
+41. B
+42. B
+43. D
+44. C
+45. A
+46. B
+47. D
+48. B
+49. B
+50. B
+51. B
+52. C
+53. D
+54. D
+55. C
+56. D
+57. B
+58. A
+59. B
+60. B
+61. C
+62. A
+63. B
+64. A
+65. C
+66. C
+67. A
+68. A
+69. A
+70. B
+71. A
+72. C
+73. C
+74. C
+75. B
+76. B
+77. A
+78. A
+79. C
+80. A
+81. C
+82. A
+83. A
+84. C
+85. D
+86. D
+87. B
+88. A
+89. C
+90. D
+91. C
+92. crystal clarity 
+93. in first 
+94. took fancy 
+95. Thanks to 
+96. flinch at 
+97. get down 
+98. end up 
+99. By contrast 
+100. maximum effect 
+101. cheers for 
+102. associate with 
+103. rejoiced in 
+104. Going through 
+105. take in 
+106. brand new 
+107. home soil 
+108. shining light 
+109. packed with 
+110. reaches out 
+111. rattle off 
+112. sat up 
+113. bring scene 
+114. programmed to 
+115. hopeful signs 
+116. referred to 
+117. contact with 
+118. approximately estimated mistakenly conquest adopted similarities spread predominant translation popular

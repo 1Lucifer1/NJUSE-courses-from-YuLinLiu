@@ -1,0 +1,617 @@
+层次3第一学期练习unit7_end
+Updated: Mon Dec 16 22:11:50 2013
+
+================================================================================
+INFORMATION:
+
+Program created by: ............................................... Luo Chenxing
+Platform: ............................................ Ubuntu 13.04 Python 3.3.1
+Program updated on: .............................................. Dec. 10, 2013
+
+Applause to those teachers who edited and arranged these exercises and to those engineers who run the online system.
+================================================================================
+
+================================================================================
+I. 选择题：
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+PART 1
+--------------------------------------------------------------------------------
+1. Here is _____ British Prime Minister Margaret Thatcher's lesson for you.
+A.previous          B.last              C.ex                D.former            
+
+2. One only gets to the top _____ of the ladder by steadily climbing up one at a time.
+A.rang              B.ring              C.rung              D.run               
+
+3. You can learn from these kinds of famous _____ in three very important ways.             
+A.equations         B.quotations        C.equators          D.quotas            
+
+4. Joe tried to read the _____ in Chinese while listening to "Shrek."
+A.titles            B.subtitles         C.headlines         D.headings          
+
+5. In addition to new words，watching a movie or TV program can be good for _____.
+A.view              B.review            C.preview           D.outview           
+
+6. Your instructor or audience may not have been _____.
+A.assigned          B.aligned           C.abided            D.aliened           
+
+7. The new finds have added another _____ to man's early story.
+A.extension         B.pension           C.suspension        D.dimension         
+
+8. The _____ of music styles is extremely complicated.
+A.class             B.classification    C.classified        D.classify          
+
+9. Send me all the _____ information.
+A.relevant          B.restraint         C.resident          D.retreat           
+
+10. “I'd like your help tomorrow.” “Can you be more _____ (= tell me exactly what you want)?”
+A.special           B.specific          C.especial          D.particular        
+
+11. The task-based strategies focus on how to use one's _____ to learn most effectively.
+A.sources           B.resources         C.origins           D.foundations       
+
+12. Learning strategies , however are the tools that students themselves can _____ independently to completely.
+A.employ            B.empower           C.embed             D.embody            
+
+13. Strategies are _____ process that are difficult to observe. 
+A.spiritual         B.mental            C.physical          D.nerval            
+
+14. His music is an _____ of tradition and new technology.
+A.intensification   B.intention         C.integration       D.intervention      
+
+15. You might think that people use learning strategies one at a time and that learning strategies are clearly delimited in function and in use.
+A.separable         B.superior          C.scarce            D.sensitive         
+
+16. Many learning tasks are _____ using a number of different learning strategies.
+A.accustomed        B.accompanied       C.accumulated       D.accomplished      
+
+17. Note capture the ideas of your _____ lectures.
+A.instructors'      B.professors'       C.tutors'           D.mentors'          
+
+18. I must _____ on how to answer that question. 
+A.reflect           B.think             C.speculate         D.reason            
+
+19. I would like to _____ in a few more detail for you. 
+A.describe          B.picture           C.represent         D.sketch            
+
+20. I _____ my learning content through the use of sound files, videos and English movies.
+A.expand            B.exert             C.exceed            D.extent            
+
+21. I seldom _____ learning experience with my parents, teachers and classmates. 
+A.exchange          B.change            C.interchange       D.switch            
+
+22. I try to discover and _____ on my progress and weakness in the process of English learning process.
+A.revolt            B.retain            C.reflect           D.refresh           
+
+23. Good teachers use numerous teaching strategies to help students learn, direct students' attention to important elements, and ______ students' background knowledge before introducing a new concept.
+A.achieve           B.activate          C.archive           D.active            
+
+24. Learning strategies may take different forms. Strategies like making _____, in which students derive meaning from context, are difficult to observe. 
+A.interference      B.reference         C.inference         D.conference        
+
+25. The new trade agreement should _____ more rapid economic growth.
+A.facilitate        B.irritate          C.dictate           D.imitate           
+
+26. It is hard to work _____ in such a confined space.
+A.sufficiently      B.efficiently       C.obediently        D.transiently       
+
+27. The security police _____ all of the suspect's phone calls. 
+A.auditored         B.editored          C.monitored         D.visitored         
+
+28. The game will be broadcast _____ on TV and radio.
+A.stimulantly       B.simultaneously    C.cumulatively      D.accumulately      
+
+29. Although lectures may seem archaic, they remain in use because they have three powerful characteristics.
+A.boring            B.time-consuming    C.inefficient       D.old-fashioned     
+
+30. Lectures _____ information more expediently than any other form of information exchange.
+A.transmit          B.transit           C.submit            D.summit            
+
+31. The president's speech will be _____ live.
+A.televiewed        B.televised         C.telegrammed       D.telegraphed       
+
+32. It is _____ that the law be changed.
+A.merged            B.emerged           C.urgent            D.surgent           
+
+33. Your notes stimulate the mind and _____ memory. 
+A.restore           B.resolve           C.revenue           D.reinforce         
+
+34.  _____, a single technique will not work ideally for all students, but there are several general rules worth knowing. 
+A.Advently          B.Admittedly        C.Adequately        D.Advancedly        
+
+35. Do not copy every word; _____ the lecture,
+A.filter            B.fitter            C.flier             D.flyer             
+
+36.  Noting only the expressions you will need to _____ your memory.
+A.prompt            B.propose           C.proper            D.propel            
+
+37. She managed to _____ her sense of humor under very trying circumstances.
+A.reserve           B.preserve          C.deserve           D.conserve          
+
+38. A complicated rule can be _____ by a simple example. 
+A.illiterated       B.included          C.illusioned        D.illustrated       
+
+39. His wife's death has long been the subject of rumor and anecdote. 
+A.poem              B.chat              C.report            D.story             
+
+40. Making inference is a learning strategy in which students _____ meaning from context,
+A.depict            B.derive            C.define            D.decline           
+
+41. You can practice what the famous people have said and see if you can _____ your goals.
+A.assign            B.attain            C.afford            D.accord            
+
+42. You may have experienced a _____ of learning styles.
+A.clash             B.crush             C.crash             D.cash              
+
+43. Think of these dimensions as a _____ with one learning preference on the far left and the other on the far right.
+A.continuum         B.renewal           C.lasting           D.sustaining        
+
+44. One of the most _____ skills to learn and master in school is taking notes.
+A.fundamental       B.functional        C.irrational        D.instrumental      
+
+45. Good skill is not _____ automatically.
+A.enquired          B.acquired          C.inquired          D.required          
+
+46. You could always _____ a low fat cheese if you don't want to take in too much calories .
+A.substitute        B.replace           C.displace          D.instead           
+
+47. King Arther _____ the beast and cuts off its head. 
+A.captions          B.capsules          C.capitals          D.captures          
+
+48. If you are in any debt, _____ a financial adviser.
+A.negotiate         B.confer            C.question          D.consult           
+
+49. I can overcome language _____ and maintain communications
+A.obstacles         B.opticals          C.offenses          D.opposites         
+
+50. They can then begin to notice how they learn, how others learn, and how they might _____ how they learn to learn more efficiently.
+A.adopt             B.adapt             C.admit             D.adjust            
+
+51. An interesting _____ of the city is the old market.
+A.figure            B.future            C.feature           D.feather           
+
+52. He stated the advantages and disadvantages in _____ order.
+A.sequential        B.substantial       C.potential         D.residential       
+
+53. The "Learning Strategies List for Students" below _____ the language learning strategies discussed above.
+A.outlaws           B.outlines          C.outlets           D.outsets           
+
+54. Note taking skills also are useful on the job for recording meetings or _____.
+A.senators          B.sermons           C.seminars          D.semesters         
+
+55. Author and subject _____ are available on a library database.
+A.figures           B.exponents         C.numbers           D.indexes           
+
+56. Note-taking strategies are designed to improve one's ability to take more _____, more complete, and more organized notes.
+A.altitude          B.abrupt            C.accurate          D.acquaint          
+
+57. The president is trying to improve his _____ after that scandal.
+A.imagine           B.imagination       C.image             D.imagery           
+
+58. Are his wages _____ to support his family?
+A.abrupt            B.adept             C.adequate          D.abundant          
+
+59. All three teams _____ different approaches to the problem.
+A.adopted           B.adjusted          C.adapted           D.adored            
+
+60. American's priority is to _____ its economy. 
+A.stipulate         B.speculate         C.simulate          D.stimulate         
+
+--------------------------------------------------------------------------------
+PART 2
+--------------------------------------------------------------------------------
+61. There are few "rights" and "wrongs" in learning strategies taxonomies, but specific ways of organizing the strategies can be useful for different teaching situations.
+A.对学习策略分类很少有“完全正确”或“完全错误”的看法,不同教学条件下的人们评价不一。
+B.分类体系很少有“正确”与“错误”之分，但不同归类方法适用于不同的教学条件。
+C.学习策略几乎没有完全“正确”的，也没有完全“错误”的,其有效性要视不同的教学条件而定。
+
+62. The strategies are relevant to the foreign language teacher's emphasis on the 5 Cs and facilitate the integration of content and language objectives. 
+A.这些学习策略与外语教师所强调的5C密切相关，有助于内容与语言两方面学习目标的有机融合。
+B.这些学习策略为应对外语教师强调的5C目标而产生，推动内容和语言客观上的融合。
+C.这些学习策略，和外语教师强调的5c以及“内容、语言目标相融合”观点是紧密相连的。
+
+63. Looking through the list of strategies, you might think that people use learning strategies one at a time and that learning strategies are clearly delimited in function and in use. 
+A.细看以上的学习策略表，你也许会认为人们一次只用一次策略，但这些策略都有不同的功能和使用方法。
+B.细看以上的策略一览表，你会认为，人们每次用的策略都不止一个，只不过界定这些策略的功能和使用情况很困难。
+C.看了这张学习策略一览表，你或许会以为，人们每次只用一种策略，并且以为不同的策略在功能和使用上界限是很分明的。
+
+64. Lectures require mental and physical participation.
+A.举办讲座需要脑力和体力劳动者的共同参与。
+B.做讲座需要思想的投入和体力的消耗。
+C.听讲座既需要动脑也需要动手。
+
+65. Think of these dimensions as a continuum with one learning preference on the far left and the other on the far right. 
+A.把这些维度的最左端和最右端联系起来，你就可以看到一个学习风格的整体了。
+B.这些维度上有处于最左端的学习爱好，也有处于最右端的，想一想你的偏好在哪里。
+C.把这些维度想像成一个连续体，有的学习偏好位于它的最左端，而另一些位于最右端。
+
+66. We have divided them into four categories that are grouped by the kinds of resources students already have, or can get, to help them complete specific tasks.
+A.我们已经把这些策略分为四类，分类是按学生完成具体任务时已经拥有什么资源或者可以得到什么资源来进行的。
+B.我们把学生们已经拥有的资源或可得到的资源分为四类，这样就可以帮助他们完成非常具体的任务。
+C.我们已经根据学生们完成特别的任务类别，把资源划分为四类，包括他们已经拥有的和可能获得的。
+
+67. Many learning tasks are accomplished using a number of different learning strategies, sometimes simultaneously and sometimes in sequence. 
+A.许多学习任务的完成需要运用多种不同学习策略，可能同时运用，也可能轮番运用。
+B.许多学习任务的完成是用了很多种学习策略的，有时横向用，有时纵向用。
+C.许多学习任务的完成是交替使用不同的学习策略，有时只用一、两个，有时却要用到很多个。
+
+68. You should consider adopting a formal plan for your notes.
+A.你应该考虑采用正式的模板来写便条。
+B.你应该指定正式的计划来学习记笔记。
+C.你可以考虑采用一种正式的笔记格式。
+
+69. Balance is key. You don't want to get too far on any one side of the learning dimensions. 
+A.中间点是问题的答案。你不会想在学习风格的维度上得到任何一边的支持。
+B.找到自己的平衡点。你不用从一种学习风格的偏好改变成为另外一种偏好。
+C.获得平衡是关键。别在这些学习风格的维度上偏向任何一个极端。
+
+70. Reflecting upon your own thinking and learning is metacognitive thinking. 
+A.模仿自己的思维和学习，就是元认知思维方式。
+B.研究自己的思维，然后去学习元认知思维方式。
+C.对自己的思维和学习进行反思，这就是一种元认知思维方式。
+
+71. Lectures transmit information more expediently than any other form of information exchange, including the Internet.
+A.讲座能更加迅捷地传递各种信息，甚至包括因特网上的信息。
+B.相比于包括因特网在内的其它信息交流方式，讲座能够更加便捷地传递信息。
+C.讲座比其他信息传递的方式，包括因特网，都更生动直观。
+
+72. What is important for learning process is that strategies can be learned.
+A.对学习过程而言，重要的是策略是可以习得的。
+B.重要的策略是可以在学习过程中领会的。
+C.在学习过程中，重要的是去掌握“学习策略”。
+
+73. Note taking involves making a permanent written record of the main points and supporting details to which one may refer later. 
+A.记笔记意味着将要点以及提供支撑的细节留下永久性的书面记录，以备将来查阅。
+B.记笔记包括把要点永久性地记录下来，并且需要查阅一些提供支持的细节。
+C.记笔记是为了人们日后查阅，所以要点和相关联的细节要整理清楚。
+
+74. Once you know your own natural learning preferences, you can work on expanding the way you learn. 
+A.一旦知道了自己的学习兴趣，你就能够有针对性地提高自己的学习效率。
+B.一旦对自己天生的学习偏好有了了解，你就可以着力扩展自己的学习方法。
+C.一旦弄明白哪种学习方法适合自己，你就可以在拓宽学习范围上有所作为。
+
+75. Improving one's note taking skills is advantageous for a number of reasons.
+A.笔记能力应作为优先培养的技能，原因很多。
+B.提高做笔记的能力对学生的好处有很多。
+C.提高做笔记的能力是学生最基本的任务，原因如下。
+
+76. Learning strategies are the tools that students themselves can employ independently to complete a task.
+A.学习策略是独立的学生们用来完成学习任务的工具。
+B.学习策略是学生们完成自主学习任务时必不可少的工具。
+C.学习策略是学生们完成任务过程中可以独立使用的工具。
+
+77. Notes help you to learn the material as you transcribe it. 
+A.整理笔记帮助你去掌握对笔记内容。
+B.你在整理笔记的时候才会去弄清楚材料上的具体内容。
+C.整理笔记能帮助你不断地提高记笔记的能力。
+
+78. Lectures are performances; unlike televised or taped presentations, they are urgent and immediate, demanding attention and concentration.
+A.讲座是一种演出，跟电视转播或录音报告不同，它是现场的、即时的，要听众全神贯注才行。
+B.讲座是跟电视和录制的节目不同的表演形式，他们更及时也更直接，因此需要表演者专心致志。
+C.讲座这种展现方式跟电视和录相不同，表演者能更及时、更直接了解观众是否专心和集中注意力。
+
+79. Within each of these four groups, you will find specific strategies that are examples of what the students can do with these resources to help them learn. 
+A.以上四类策略又分别包含了更为细化的策略，这些细化的分类向学生们展示，可以怎样利用这些资源促进自己的学习。
+B.以上四类策略中，有一些特殊的策略可以向学生展示如何利用各种学习资源进行学习。
+C.以上四类策略中，有些特别的策略当中列举了具体的使用范例，向学生展示如何利用现有资源促进自己的学习。
+
+80. Notes capture the ideas of your instructors' lectures, allowing you to study them after class.
+A.笔记有助于理解老师的讲课内容，老师也允许你课后继续学习。
+B.笔记可以抓住老师讲座的要领，便于课后复习。
+C.笔记是老师教授的主要学习方法，老师还会让你课后去学习它。
+
+81. These metacognitive strategies follow the sequential order of the process a learner generally goes through in accomplishing any task.
+A.这些元认知策略的排列，遵循了学习者平时完成一项任务时所遵循的先后顺序。
+B.元认知策略遵循的顺序，就是学习者学习这些策略时应该依照的顺序。
+C.学习者完成学习任务时遵循的次序，和元认知策略里提到的顺序完全一致。
+
+82. Teaching learning strategies one-by-one, giving each one a name and a definition, and using examples, gives the teacher a way to talk to his students about thinking and learning.
+A.我们在教学习策略的时候，如果一个策略一个策略地分开进行，并给每种策略起个名字、提供定义及相关例证，教师便可据此与学生讨论思维方式和学习过程。
+B.我们一个一个教学策略的时候，我们给每个策略名字，定义名字，然后举例帮助学生讨论思维方式和学习的方式。
+C.我们在教学策略的时候我们给每个策略一个名字和定义，然后举例子，这样老师就可以帮助学生学习和思考。
+
+83. The Task-Based Learning Strategies are more determined by the specific nature of the task and the resources of the student. 
+A.基本任务策略决定了任务的特点和学生拥有的资源。
+B.任务驱动型策略取决于任务的特点和学生拥有的资源。
+C.基于任务型策略决定了任务的特点但建立在学生拥有的资源之上。
+
+84. You may go so far as to use a personal shorthand or learn a formal system. 
+A.可以尝试使用个性化速记方法或学会一套规范的速记体系。
+B.想使用个性化速记方法和正式的速记体系，你就走得有点远了。
+C.无论是使用个人速记和还是学习正式的体系，你都有很长的路要走。
+
+85. Note taking strategies are broadly applicable to a variety of tasks and subjects.
+A.做笔记策略大致可以运用到几类任务和课程中。
+B.许多任务和课题只能一般性地使用记笔记策略。
+C.做笔记策略可广泛应用于不同类型的任务和科目。
+
+86. The "Task-Based Learning Strategies" focus on how to use one’s own resources to learn most effectively. 
+A.“基本任务策略”着重关心的是如何发挥自身的强项，从而更加有效地学习。
+B.“任务驱动型策略”强调如何有效利用自身资源，取得最佳学习效果。
+C.“基于任务型”策略重点在于如何使用自己的资料，把学习效率提高上去。
+
+--------------------------------------------------------------------------------
+PART 3
+--------------------------------------------------------------------------------
+87. What is the criterion for distinguishing between "metacognitive" and "task-based "strategies? ("Learning Strategies")
+A.Task-relatedness.
+B.Proficiency level.
+C.Subject.
+D.Learning objective.
+
+88. What is metacognitive thinking? ("Learning Strategies")
+A.Thinking independently.
+B.Thinking under the instruction of teachers.
+C.Thinking about personal resources.
+D.Thinking about personal thinking and learning.
+
+89. How do people further divide task-based strategies into four subcategories? ("Learning Strategies")
+A.Based on the resources of the student.
+B.Based on the resources of the teacher.
+C.Based on the characteristics of the task. 
+D.Based on the language learning objective. 
+
+90. How can learners "filter the information " while taking notes? ("Note-taking Strategies")
+A.By putting down as many words as possible in the notebook.
+B.By catching the key points of the lecture.
+C.By understanding all the emphasized sentences of the lecture.
+D.By using personal shorthand. 
+
+91. Which of the following is NOT a way that note-taking can help with students at school? ("Note-taking Strategies")
+A.Improving reading comprehension.
+B.Effective preparation for exams. 
+C.Developing logical reasoning. 
+D.Completion of assignments. 
+
+92. How many categories can the 20 strategies be divided into? ("Learning Strategies")
+A.Two.              B.Three.            C.Four.             D.Five.             
+
+93. Which of the following is NOT a task-based strategy? ("Learning Strategies")
+A.Use background knowledge.
+B.Evaluate the learning.
+C.Make predictions. 
+D.Find patterns. 
+
+94. What is the function of notes? ("Note-taking Strategies")
+A.Enlarging your vocabulary.
+B.Improving your listening.
+C.Getting the gist of lectures.
+D.Improving your memory.
+
+95. Why can the 20 learning strategies be used to master the 5Cs emphasized by foreign language teachers? ("Learning Strategies")
+A.The strategies are also classified by foreign language teachers. 
+B.The strategies are relevant and help combine content and language objectives. 
+C.The strategies are identified for the purpose of foreign language learning. 
+D.The strategies are divided into categories according to the 5Cs.  
+
+96. What is the main purpose of the article "Learning Strategies"? ("Learning Strategies")
+A.To distinguish learning strategies from teaching strategies.
+B.To categorize the concept of learning strategies. 
+C.To explain different types of learning strategies. 
+D.To familiarize students with learning strategies and help them learn more efficiently. 
+
+97. What are the 5Cs emphasized by the foreign language teachers? ("Learning Strategies")
+A.Communications, Cultures, Connections, Comparisons, and Communities.
+B.Communications, Construtions, Cultures, Contrasts and Comparisons.
+C.Conclusion, Conditions, Cultures, Connections and Communities.
+D.Combinations, Constructions, Connetions, Conducts and Communications.
+
+98. Which of the statements is true of note-taking according to the passage? ("Note-taking Strategies")
+A.It is more useful for students than for anybody else. 
+B.It improves one's logic thinking as well as listening.
+C.It helps with different kinds of tasks and subjects. 
+D.It is second nature that does not require instruction. 
+
+99. The 5Cs emphasized by the language teachers aim to improve the following skills except _____.("Learning Strategies")
+A.reading           B.listening         C.translating       D.writing           
+
+100. Which of the following would NOT be considered as a general rule of note-taking by the author of the passage? ("Note-taking Strategies")
+A.Filter the information.
+B.Classify information.
+C.Organize the information.
+D.Evaluate the information.
+
+================================================================================
+II. 填空题：
+--------------------------------------------------------------------------------
+101. You will see if you can ______  your ______ (达到你的目标) in that way.
+
+102. ______ || ______  (除了) to new words, watching a movie or TV program can be good for review.
+
+103. ______ || ______  (动作影片) are less useful than others.
+
+104. ______ || ______ (通常说来), action movies are less useful than others because there is less speaking and often there is too much slang.
+
+105. The best approach is to try many different videos until you find a few that are really  ______  your ______  (符合你的口味).
+
+106. The 20 strategies will be ______ || ______  (分成) two categories.
+
+107. Notes ______  the ______  (抓住要领) of your instructors' lectures.
+
+108. Note taking is most commonly used to record ______ || ______  (口头报告). 
+
+109. Note-taking strategies are broadly a______ || ______  (运用于) a variety of tasks and subjects. 
+
+110. You will probably be working with at least three types of information: ______ || ______  (实质性内容), references and illustrations.
+
+111. In others words, the strategies are ______ || ______  (与…有关) the foreign teacher's emphasis on the 5S.
+
+112. Note taking strategies may also be used to record notes from ______  s______  (书面材料).
+
+113. Filter the lecture, nothing only the expressions you need to p______  your ______  (唤起你记忆). 
+
+114. You may be able to improve the c______  or c______  (清晰度或统一性). 
+
+115. Good teachers d______  students' a______   (将学生的注意力指向) to important elements. 
+
+116.  Many learning tasks are accomplished using a number of different learning strategies, sometimes simultaneously and sometimes ______  s______  (依次序). 
+
+117. Note-taking is an excellent general skill -- and good technique is not ______ || ______  (自动获得的).
+
+118. One big advantage is that the language in the TV program or movie is ______  and ______  (丰富、多彩).
+
+119. Have your ever tried to learn something fairly simple, yet failed to grasp the k______  i______  (主要思想) ?
+
+120. Once you know your own natural l______  p______  (学习倾向), you can work on expanding the way you learn.
+
+121. The language is realistic or s______ || ______  (与…相似) that used in real life.
+
+122. In reality, we might go b______  and ______  (循环往复). 
+
+123. Your notes are part of a process of active listening, mental processing and m______ || ______  (手写记录).
+
+124. Lectures requires mental and p______  p______  (身体力行).
+
+125. Illustrations may be quickly s______ || ______  (画进去). 
+
+126. When you experienced a clash of learn styles, the communication process will ______ || ______  (中断).
+
+127. Good teachers use numerous teaching strategies to activate students' ______ || ______  (背景知识).
+
+128. Wouldn't you like to learn English from famous writers, world leaders, successful businesspeople, and b______ || ______  (杰出的科学家) ?
+
+129. They can t______  r______  (对…负责) for their own learning. 
+
+130. Note-taking is an excellent g______ || ______  (一般性技能).        
+
+131. It's difficult to ______ || ______  (做预测) about the effects on the environment.
+
+================================================================================
+III. 完形：
+--------------------------------------------------------------------------------
+132. 
+
+
+答案
+1. D
+2. C
+3. B
+4. B
+5. B
+6. B
+7. D
+8. B
+9. A
+10. B
+11. B
+12. A
+13. B
+14. C
+15. A
+16. D
+17. A
+18. A
+19. D
+20. A
+21. A
+22. C
+23. B
+24. C
+25. A
+26. B
+27. C
+28. B
+29. D
+30. A
+31. B
+32. C
+33. D
+34. B
+35. A
+36. A
+37. B
+38. D
+39. D
+40. B
+41. B
+42. A
+43. A
+44. A
+45. B
+46. A
+47. D
+48. D
+49. A
+50. D
+51. C
+52. A
+53. B
+54. C
+55. D
+56. C
+57. C
+58. C
+59. A
+60. D
+61. B
+62. A
+63. C
+64. C
+65. C
+66. A
+67. A
+68. C
+69. C
+70. C
+71. B
+72. A
+73. A
+74. B
+75. B
+76. C
+77. A
+78. A
+79. A
+80. B
+81. A
+82. A
+83. B
+84. A
+85. C
+86. B
+87. A
+88. D
+89. A
+90. B
+91. C
+92. A
+93. B
+94. C
+95. B
+96. D
+97. A
+98. C
+99. C
+100. D
+101. attain goal
+102. In addition
+103. Action movies
+104. Generally speaking
+105. to taste
+106. divided into
+107. capture idea
+108. oral presentations
+109. applicable to
+110. substantive content
+111. relevant to
+112. written sources
+113. prompt memory
+114. clarity consistency
+115. direct attention
+116. in sequence
+117. acquired automatically
+118. rich colorful
+119. key ideas
+120. learning preference
+121. similar to
+122. back forth
+123. manual recording
+124. physical participation
+125. sketched in
+126. break down
+127. background knowledge
+128. brilliant scientists
+129. take responsibility
+130. general skill
+131. make predictions
+132.  efficiently concentrate copies essential irrelevant contents sections skip progresses
