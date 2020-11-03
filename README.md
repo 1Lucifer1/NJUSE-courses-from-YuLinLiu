@@ -12,7 +12,7 @@
 
 ### 下载
 
-1. 下载部分文件夹，使用[DownGit](http://tool.mkblog.cn/downgit/#/home)
+1. 下载部分文件夹，使用[DownGit](https://yehonal.github.io/DownGit/#/home)
 2. 也可以使用GitZip for Github，一个chrome的插件
 
 ### 声明
