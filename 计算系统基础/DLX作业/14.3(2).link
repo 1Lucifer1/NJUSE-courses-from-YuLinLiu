@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DLXObject>
+<Data>
+	<DataTable Base='4294967295' Length='4'>
+		<Symbol name='SAVERR3' isGlobal='False' isExtern='False' >0,1,2,3</Symbol>
+	</DataTable>
+	<DataContent>00000000</DataContent>
+</Data>
+<Text>
+
+	<TextTable Base='4294967295' Length='240'>
+		<Symbol name='MAIN' isGlobal='True' isExtern='False' >0</Symbol>
+		<Symbol name='OUT2' isGlobal='False' isExtern='False' >48</Symbol>
+		<Symbol name='ASCTOMUN' isGlobal='False' isExtern='False' >60</Symbol>
+		<Symbol name='ATOF' isGlobal='False' isExtern='False' >140</Symbol>
+		<Symbol name='ATOF2' isGlobal='False' isExtern='False' >188</Symbol>
+	</TextTable>
+	<TextContent>1 2 1 #0 32 ASCTOMUN 1 1 2 #0 1 2 4 #0 32 ASCTOMUN 1 4 2 #0 0 4 1 4 19 3 4 #9 29 3 OUT2 1 4 4 #48 35 #7 35 #0 1 4 4 #55 35 #7 35 #0 28 3 0 SAVERR3 0 19 3 2 #57 29 3 ATOF 3 2 2 #48 27 3 0 SAVERR3 0 33 31 19 3 2 #70 29 3 ATOF2 3 2 2 #55 27 3 0 SAVERR3 0 33 31 3 2 2 #87 27 3 0 SAVERR3 0 33 31 35 #9 1 1 4 #0 35 #9 </TextContent>
+</Text>
+</DLXObject>

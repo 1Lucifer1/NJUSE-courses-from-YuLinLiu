@@ -1,0 +1,75 @@
+            .DATA
+            .TEXT   
+            .GLOBAL  MAIN
+MAIN :      ADDI    R5, R1, #0
+            LHI     R2, X3000
+            LB      R3, #0(R2)
+            SEQI    R4, R3, #120
+            BNEZ    R4, BEFOREUP16
+            SEQI    R4, R3, #88
+            BNEZ    R4, BEFOREUP16
+            SEQI    R4, R3, #45
+            BNEZ    R4, UPSUB10
+UP10 :      LB      R3, #0(R2)
+            ADDI    R6, R6, #10
+            SUBI    R5, R5, #1
+            SEQI    R4, R3, #0
+            BNEZ    R4, EXIT
+            ADDI    R16, R0, #0
+            SUBI    R3, R3, #48
+            ADD     R7, R3, R7
+            BNEZ    R5, LOOPX10
+            ADDI    R2, R2, #1
+            J       UP10
+LOOPX10 :   ADD     R16, R16, R7
+            SUBI    R6, R6, #1
+            BEQZ    R6, JUP10
+            J       LOOPX10
+JUP10 :     ADDI    R2, R2, #1
+            ADDI    R7, R16, #0
+            J       UP10
+BEFOREUP16 :ADDI    R2, R2, #1
+            SUBI    R5, R5, #1
+UP16 :      LB      R3, #0(R2)
+            SUBI    R5, R5, #1
+            ADDI    R6, R6, #16
+            SEQI    R4, R3, #0
+            BNEZ    R4, EXIT
+            ADDI    R16, R0, #0
+            SLEI    R4, R3, #57
+            BEQZ    R4, ATOF
+            SUBI    R3, R3, #48
+            J       SENS0
+ATOF :      SLEI    R4, R3, #70
+            BEQZ    R4, ATOF2
+            SUBI    R3, R3, #55
+            J       SENS0
+ATOF2 :     SUBI    R3, R3, #87
+            J       SENS0
+SENS0 :     ADD     R7, R3, R7
+            BNEZ    R5, LOOPX16
+            ADDI    R2, R2, #1
+            J       UP16
+LOOPX16 :   ADD     R16, R16, R7
+            SUBI    R6, R6, #1
+            BEQZ    R6, JUP16
+            J       LOOPX16
+JUP16 :     ADDI    R2, R2, #1
+            ADDI    R7, R16, #0
+            J       UP16
+EXIT :      LHI     R2, X3000
+            LB      R3, #0(R2)
+            SEQI    R4, R3, #45
+            BNEZ    R4, SEXT
+REALEXIT :  ADDI    R16, R7, #0
+            TRAP    x00
+UPSUB10 :   ADDI    R2, R2, #1
+            SUBI    R5, R5, #1
+            J       UP10
+SEXT :      XORI    R7, R7, #-1
+            ADDI    R7, R7, #1
+            J       REALEXIT
+
+
+
+

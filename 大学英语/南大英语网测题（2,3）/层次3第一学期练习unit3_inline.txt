@@ -1,0 +1,636 @@
+层次3第一学期练习unit3_inline
+Updated: Mon Dec 16 22:11:12 2013
+
+================================================================================
+INFORMATION:
+
+Program created by: ............................................... Luo Chenxing
+Platform: ............................................ Ubuntu 13.04 Python 3.3.1
+Program updated on: .............................................. Dec. 10, 2013
+
+Applause to those teachers who edited and arranged these exercises and to those engineers who run the online system.
+================================================================================
+
+================================================================================
+I. 选择题：
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+PART 1
+--------------------------------------------------------------------------------
+1. I have to _____ that I didn't believe him at first.
+A.confess           B.confirm           C.conduct           D.conform           
+答案： A
+
+2. The headmaster ____ 15-year-old pupil Daniel Walton for failing to stand up when he entered the classroom.
+A.suspended         B.suspected         C.surged            D.sustained         
+答案： A
+
+3. I feel greatly _____ by your invitation. 
+A.battered          B.shattered         C.scattered         D.flattered         
+答案： D
+
+4. An item on the ____ of tomorrow's meeting will be infant health care.
+A.agency            B.agenda            C.agent             D.agony             
+答案： B
+
+5. These women are demanding fairness and _____ in their pay.
+A.equality          B.equalizer         C.equation          D.equivalence       
+答案： A
+
+6. Respect for office could not be more ____ to the working of society.
+A.cruise            B.crude             C.crust             D.crucial           
+答案： D
+
+7. Our society has many _____ of greeting, farewell, and celebration. 
+A.rituals           B.rivals            C.virtues           D.virtuals          
+答案： A
+
+8. Besides _____ suits, perfume, the commodities of CHANEL also spread to jewellery, cosmetics and fittings. 
+A.exclude           B.excluding         C.exclusion         D.exclusive         
+答案： D
+
+9. Swiss shop workers' good manners were often ____ by pride in their work.
+A.desired           B.inspired          C.inquired          D.expired           
+答案： B
+
+10. Many citizens helped the woman who dropped a folder and ____ papers everywhere.
+A.scattered         B.separated         C.spread            D.spilt             
+答案： A
+
+11. May I ___ to suggest a few improvements?
+A.attempt           B.venture           C.risk              D.dare              
+答案： B
+
+12. People worry that service in stores has become _____ and youngsters have lost respect for their elders.
+A.surly             B.surely            C.sury              D.suely             
+答案： A
+
+13. This store has an excellent _____ for fair dealing.
+A.admiration        B.aspiration        C.reputation        D.radiation         
+答案： C
+
+14. We wish you health, happiness, and _____.
+A.prosper           B.prosperity        C.prosperous        D.prosperously      
+答案： B
+
+15. Zagreb _____ were world leaders in helping with dropped papers.
+A.reside            B.resident          C.residents         D.residential       
+答案： C
+
+16. He came to the meeting ____ his illness.
+A.although          B.regardless        C.though            D.despite           
+答案： D
+
+17. The teacher can't keep _____ in her classroom.
+A.discipline        B.rule              C.respect           D.control           
+答案： A
+
+18. Mr. Harrison has also picked a fight with the notion that _____ doesn't exist, only entitlements.
+A.authoritative     B.authority         C.authorization     D.authorize         
+答案： B
+
+19. This new evidence ____ my opinion that they are lying.
+A.ensures           B.confines          C.confirms          D.assures           
+答案： C
+
+20. Shamelessness and dishonesty among public servants has created ____ for authority.
+A.attempt           B.contempt          C.exempt            D.tempt             
+答案： B
+
+21. Every customer is served _____.
+A.attention         B.attentive         C.attentively       D.attend            
+答案： C
+
+22. The Japanese have a rigid code of _____,which may seem artificial to foreigners.
+A.antique           B.etiquette         C.ethical           D.omelette          
+答案： B
+
+23. Before liberation, famine forced his father to _____ his native village.
+A.flea              B.flee              C.flesh             D.fleet             
+答案： B
+
+24. How can you _____ spending so much money?
+A.justice           B.justification     C.justify           D.just              
+答案： C
+
+25. Many older people complained that courtesy was less _____ among the young.
+A.prevalent         B.prevalence        C.prevalently       D.prevail           
+答案： A
+
+26. I am friendly to people whether they are dressed _____ or are wearing an expensive fur coat.
+A.shallowly         B.shallow           C.shabby            D.shabbily          
+答案： D
+
+27. Without looking behind her, she lets the heavy glass door _____ closed.
+A.swing             B.swang             C.swung             D.swinging          
+答案： A
+
+28. The _____ are threatening to blow up the plane.
+A.terrors           B.terrorisms        C.terrorizes        D.terrorists        
+答案： D
+
+29. It was quite a ____ to move that piano by yourself!
+A.feast             B.feat              C.feet              D.feed              
+答案： B
+
+30. Toronto is very _____, very polite.
+A.tolerance         B.tolerant          C.tolerate          D.tolerated         
+答案： B
+
+31. Many citizens were very courteous to help us with the unwieldy documents.
+A.bulky             B.scattered         C.delivered         D.orderly           
+答案： A
+
+32. The US could _____ punitive tariffs (惩罚性关税) of up to 100 % on some countries' exports.
+A.import            B.imply             C.impose            D.impress           
+答案： C
+
+33. They stepped aside so that their child could not _____ their conversation. 
+A.overcharge        B.overhear          C.overhang          D.overlook          
+答案： B
+
+34. While two of the world's most ____ cities came at the top of our rankings, we found plenty of courtesy in poorer areas, too.
+A.affluent          B.affluence         C.fluent            D.fluency           
+答案： A
+
+35. In some big cities, even _____ criminals like traders at illegal markets were polite.
+A.prey              B.pray              C.pretty            D.petty             
+答案： D
+
+36. In contrast to their _____, I myself was feeling remarkable pleasure. 
+A.pessimism         B.pessimist         C.optimism          D.optimist          
+答案： A
+
+37. We tried to _____ his suitability for the job.
+A.access            B.assess            C.accent            D.assent            
+答案： B
+
+38. The shop assistant pretended to be busy stock-taking when we entered the tiny music shop.
+A.putting the goods on shelf
+B.calculating profits for the week
+C.recording the amount of goods in store
+D.serving other customers as the cashier
+答案： C
+
+39. We were helped by Mike Parsons, who was sitting cross-legged on the sidewalk, sketching. 
+A.singing a song
+B.playing an instrument
+C.playing a trick
+D.drawing a picture
+答案： D
+
+40. The middle-aged assistant  in Milan ignored us for ten minutes before he deigned to sell us a guitar pick. 
+A.found us and come to our service
+B.greeted us cheerily
+C.criticized himself for his poor service
+D.lowered himself to serve us
+答案： D
+
+41. Nowadays students remain seated and _____ disrespectfully instead of standing up when the teacher enters the classroom.
+A.rough             B.slouch            C.plough            D.couch             
+答案： B
+
+42. n her death. 
+A.integrate         B.inspected         C.innocent          D.involved          
+答案： D
+
+43. He tells me that teachers now behave in a _____ way towards their pupils. 
+A.excessive         B.successive        C.submissive        D.aggressive        
+答案： C
+
+44. People known as _____ are those who have too high an opinion of their own importance.
+A.big-headed        B.big-minded        C.big-hearted       D.big-tongued       
+答案： A
+
+45. New York, Zurich, and Toronto _____ as the most polite cities in our survey.
+A.merged            B.mergent           C.emerged           D.emergent          
+答案： C
+
+46. The key was lost, so we had to _____ the door open. 
+A.slump             B.slice             C.smash             D.smack             
+答案： C
+
+47. On a cold day in the ____ Queen Street West area, we were helped with a dropped folder by a street artist.
+A.tend              B.tender            C.trend             D.trendy            
+答案： D
+
+48. After the terrorist attacks on the city, New Yorkers are more _____.
+A.caring            B.carrying          C.carefree          D.careless          
+答案： A
+
+49. The magazine sent out _____ reporters in 35 countries to assess the citizens of their biggest cities.
+A.underact          B.undercover        C.undercoat         D.undercut          
+答案： B
+
+50. To allow us to compare cities, we _____ one point for each positive outcome.
+A.swallowed         B.sward             C.awarded           D.rewarded          
+答案： C
+
+51. The company _____ a survey to find out local reaction to the leisure centre.
+A.conducted         B.deducted          C.reduced           D.induced           
+答案： A
+
+52. The contract is still under _____.
+A.negotiable        B.negotiate         C.negotiator        D.negotiation       
+答案： D
+
+53. It's more hygienic (卫生的) to use _____ paper tissues.
+A.dispose           B.disposed          C.disposable        D.disposition       
+答案： C
+
+54. The local government has announced a 30-day ____ on hunting. 
+A.ban               B.bar               C.barn              D.bay               
+答案： A
+
+55. A friend of mine works near a national monument and is often ____ by school parties.
+A.swapped           B.swarmed           C.swamped           D.swallowed         
+答案： C
+
+56. We did not ____ a strict scientific survey.
+A.attach            B.attain            C.attempt           D.attend            
+答案： C
+
+57. Please inform us of your decision and we will act _____.
+A.accord            B.accordance        C.according         D.accordingly       
+答案： D
+
+58. The old universities of Oxford and Cambridge still have a lot of _____.
+A.presence          B.prescript         C.presume           D.prestige          
+答案： D
+
+59. Wealthier cities aren't generally as crowded, and competition for resources is less ____.
+A.intend            B.intensely         C.intense           D.intensify         
+答案： C
+
+60. The police put up _____ to control the crowd.
+A.barriers          B.berries           C.quarries          D.ferries           
+答案： A
+
+61. I think I can ____ Father into increasing my pocket money.
+A.coach             B.coax              C.coarse            D.code              
+答案： B
+
+62. The _____ of the meat could have been prevented by proper refrigeration.
+A.stray             B.decay             C.spray             D.delay             
+答案： B
+
+63. Zurich store assistants thanked us for our _____ in every store we visited.
+A.perfume           B.perceive          C.purchase          D.pursuit           
+答案： C
+
+--------------------------------------------------------------------------------
+PART 2
+--------------------------------------------------------------------------------
+64. It doesn't hurt to be kind, polite or try to make the other guy's day better.
+A.对人友善、讲礼貌、或者让他人更好地度过每一天，这些都从来没有伤害过任何人。
+B.对人友善、讲礼貌、或者让别人的一天过得更好，做这些对我们不会有什么损害。
+C.对人友善、讲礼貌、或者让他人更好地度过每一天，这些都不是什么特别难以做到的事。
+答案： B
+
+65. Those all made us better-quality human beings.
+A.所有这一切，为我们创造了更多有品位的人。
+B.所有这些做法，提高了我们的生活质量。
+C.所有这些行为，让我们提高了自身的素质。
+答案： C
+
+66. People who grow up thinking that way end up having ugly lives.
+A.伴着那种想法长大的一代人最终都变得令人厌恶。
+B.想那样长大的人，最后自己的生活都过得很不幸。
+C.伴着那种想法长大的人，长相最终都变得很丑陋。
+答案： A
+
+67. He is demanding respect for his office.
+A.他要求人们尊重他的职位。
+B.他要求人们在他的办公室里尊重他。
+C.他要求办公室的人都尊重他。
+答案： A
+
+68. Shamelessness and dishonesty among public servants has created contempt for authority and children have picked up the smell of decay.
+A.一些公务员的无耻和欺诈行为导致人们藐视权威，而孩子们也学会了这些无耻和欺诈。
+B.一些公务员的无耻和欺诈行为导致人们藐视权威，而孩子们也开始行为不端和愤世嫉俗。
+C.一些公务员的无耻和欺诈行为导致人们藐视权威，而孩子们也渐渐对权威丧失应有的尊重。
+答案： C
+
+69. To allow us to compare cities, we awarded one point for each positive outcome and nothing for a negative one.
+A.为了能在不同城市间进行比较，我们给每个正面结果计上一分，而每个负面结果则不计分。
+B.为鼓励我们对不同城市进行比较，我们得到好的结果都会获得奖励一分，不好的结果得不到奖励。
+C.为了获得准许来比较不同的城市，我们给每个支持者奖励一分，而不支持的人什么也不给。
+答案： A
+
+70. New Yorkers showed they are big-hearted by finishing first in our global courtesy ratings.
+A.纽约人在我们的全球礼貌测评中把自己排在第一，从而向世人表明他们的雄心。
+B.纽约人在我们的全球礼貌测评中位居第一，从而向世人表明他们心胸宽阔。
+C.纽约人第一个完成我们的全球礼貌测试，从而向世人表明他们的狂妄自大。
+答案： B
+
+71. Zagreb residents were world leaders in helping with dropped papers.
+A.萨格勒布的百姓在帮助清理废纸问题上是全世界佼佼者。
+B.萨格勒布的居民在帮忙拣文件夹的测试中名列前茅。
+C.萨格勒布人在帮助写完文章、报告方面居于世界领先位置。
+答案： B
+
+72. This applied across the board, irrespective of race.
+A.这一结论运用在板子上，不管是哪个种族的人都如此。
+B.这一结论适用于整个委员会，其中不包含种族问题。
+C.这一结论适用于所有人，与种族无关。
+答案： C
+
+73. Tests carried out during morning rush hours produced almost as many positive results as those performed off-peak.
+A.在早上的上班高峰时段进行的测试产生的正面结果与一天其他时间的高峰时段产生的正面结果一样多。
+B.在早上高峰时段和非高峰时间段里进行的测试在市民中产生了几乎一样多的积极反响。
+C.在早上的上班高峰时段和非高峰时段进行的测试中，得到的正面结果的次数几乎一样多。
+答案： C
+
+74. Mr. Harrison has also picked a fight with the notion that authority doesn't exist, only entitlements.
+A.哈里森先生还选择了跟支持“权威并不存在，只有头衔”这一观点的人进行争斗。
+B.哈里森先生还挑起了对“权威并不存在，存在的只有头衔”这一观点的争论。
+C.哈里森先生还发起了维护“权威并不存在，只有头衔”这一观点的战斗。
+答案： B
+
+75. His daughter Emma will tell the headmaster "where to get off" if he tries to impose a make-up ban.
+A.如果要颁布化妆品禁令的话，校长的女儿爱玛会告诉他该怎么办。
+B.如果爸爸禁止她使用化妆品的话，女儿爱玛会告诉校长，请他进行干涉。
+C.如果校长试图颁布禁令禁止使用化妆品的话，他的女儿爱玛会让校长“滚蛋”。
+答案： C
+
+76. Respect for office could not be more crucial to the working of society.
+A.对工作的尊重，对于社会运作而言不再至关重要了。
+B.职场上人们相互尊重，这对于社会运作而言是最为重要的。
+C.对职位的尊重，这对于社会运作是至关重要的。
+答案： C
+
+77. It's a minor purchase, but the store owner takes the time to talk to her through a variety of different models.
+A.虽说这是笔小买卖，但是店主还是耐心地向她介绍各种不同型号的商品。
+B.虽说这是笔小买卖，但是店主还是利用这个机会向她推销了很多不同型号的商品。
+C.虽说这笔生意不重要，但是店主还是花了很长时间，帮她挑选了不同型号的商品。
+答案： A
+
+78. Each was a Reader's Digest researcher taking part in a unique test to see how helpful and polite people are around the world. 
+A.每一位《读者文摘》的调查员都参与到了一项特别的试验，来了解世界各地的人们有多乐于助人、有多礼貌。
+B.每一位都是《读者文摘》的调查员，他们正在做一项特别的试验，来了解世界各地的人们有多乐于助人、有多礼貌。
+C.每一位参与这项特别实验的人都成为《读者文摘》的调查员，来了解世界各地的人们有多乐于助人、有多礼貌。
+答案： B
+
+79. Some other students did have this awareness, but they were obsessed with something else and didn't realize someone was following them.
+A.另外一些学生的确有这个意识，但他们全神贯注于其它事情，并没有意识到身后有人。
+B.另外一些学生的确有这个意识，但他们沉迷于其它事情，以至于没有意识到他们被人跟踪了。
+C.另外一些学生的确有这个意识，但他们全神贯注于其它事情，没有意识到有人正在研究他们。
+答案： A
+
+80. Commuters walk by, but Monica takes a minute to stop and help the woman pick up her documents.
+A.上班的人群散去，一分钟后，莫妮卡停下脚步，帮女子捡起文件。
+B.上班的人群从女子身边走过，但是莫妮卡停下了脚步，帮她捡起文件。
+C.上班的人群来去匆匆，只有莫妮卡停下来歇了会儿，同时帮助女子捡起文件。
+答案： B
+
+81. People worry courtesy is becoming a thing of the past.
+A.人们担心，文明礼貌之风正逐渐消失。
+B.人们对文明礼貌问题的担忧，正成为历史。
+C.现代人都不再为文明礼貌问题而烦恼了。
+答案： A
+
+82. But I've got to confess Florida does not have the friendly or courteous people it used to.
+A.但是我必须坦白地说，我们佛罗里达人不再习惯对人友善礼貌了。
+B.但是我得承认，在佛罗里达，人们不再像以前那样友善、礼貌了。
+C.但是我不得不明确一点，佛罗里达不再拥有它以前用过的那些友善懂礼貌的人。
+答案： B
+
+83. We did not attempt a strict scientific survey; it was the world's biggest real-life test of common courtesy.
+A.我们以前没有尝试过特别科学的调查；这是针对日常礼貌行为所进行的全球最大规模的真实场景测试。
+B.我们没想到这次会是一次特别科学的调查；这是针对日常礼貌行为所进行的全球最大规模的真实场景测试。
+C.我们并没有把这次调查搞得特别科学；这是针对日常礼貌行为所进行的全球最大规模的真实场景测试。
+答案： C
+
+84. Old-fashioned customer service was very much in evidence.
+A.其中旧的服务模式一眼就能辨认出来。
+B.在服务顾客的方式中，传统的东西仍有不少保留。
+C.传统的服务模式在这里仍然很常见。
+答案： C
+
+85. To a grown-up with a "progressive" outlook, those words probably sound like equality and general loveliness.
+A.在一个持有所谓“激进”观点的成年人听来，这些话听上去可能太讲平等、太过温和了。
+B.在一个持有所谓“开明”观点的成年人听来，这些话听起来有些“平等相待，与人为善”的味道。
+C.在一个持有所谓“进化”观点的成年人听来，这些话似乎既意味着平等和可爱的有机结合。
+答案： B
+
+86. The merchant gathered up his goods to flee --- but not before thanking us for our $2.
+A.摊主收拾好东西准备开溜－－－但是在此之前他还记得为我们付给他两美元而表示感谢。
+B.摊主收拾好东西开始逃跑 －－－这时突然想到我们给了他两美元，于是立即表示了感谢。
+C.摊主收拾好东西就逃走了－－－但不久前他还为我们支付给他两美元而向我们表示感谢。
+答案： A
+
+87. Mr. Walton believes that "respect has to be earned."
+A.沃尔顿先生认为，每个人都应该尊重别人。
+B.沃尔顿先生认为，每个人都得去赢得他人的尊重。
+C.沃尔顿先生认为，每个人都应该获得应有的尊重。
+答案： B
+
+88. Teachers now behave in a submissive way towards their tiniest pupils, using flattery and negotiation to coax them into reasonable behavior.
+A.现在的老师对那些最年幼的学生特别顺从，对学生们提出正当要求，他们都常用恭维或协商的办法，哄着学生去做。
+B.老师们现在对最小的学生表面上惟命是从，他们想让学生们听话的时候，就用恭维、协商的方法，从不讲大道理。
+C.现在的老师总是顺着年纪最小的学生的意愿，他们认为，对这样的孩子，用恭维和协商的方法能让他们慢慢地理智起来。
+答案： A
+
+--------------------------------------------------------------------------------
+PART 3
+--------------------------------------------------------------------------------
+89. In one test in Milan, the researchers were ignored for ten minutes before getting served by the assistant. What inference can be made from this case? ("How Polite Are We?")
+A.Service was different with big and small purchases. 
+B.People of different ages were not similarly polite. 
+C.Courtesy levels were similar in big and small stores. 
+D.Poor and wealthy cities showed equal politeness. 
+答案： C
+
+90. Why did the young man follow the slim girl into a restaurant in Mexico City? ("How Polite Are We?")
+A.He wanted to get to know her.
+B.He wanted to have lunch.
+C.He was her friend.
+D.He was doing a test.
+答案： D
+
+91. What did the female customer actually want in the stationery shop in Seoul? ("How Polite Are We?")
+A.She wanted to know how many different models of pen they had.
+B.She wanted to compare the prices between shops. 
+C.She wanted to see whether the shopkeeper would say thank you.
+D.She wanted to have a talk with the shopkeeper.
+答案： C
+
+92. What did people worry about throughout the world? ("How Polite Are We?")
+A.Financial crisis getting worse.
+B.Crowded restaurants at rush hours.
+C.Poor quality of commodities at small shops.
+D.People becoming less polite than before.
+答案： D
+
+93. What impressed the researchers about the petty criminals in S?o Paulo? ( "How Polite Are We?")
+A.They made pretty good profits.
+B.They sell good quality goods. 
+C.They were unexpectedly polite. 
+D.They were unusually friendly. 
+答案： C
+
+94. Which of the following statements agrees with the research findings? ("How Polite Are We?")
+A.Busy citizens are less polite.  
+B.Older people are more helpful. 
+C.Prosperous cities tops courtesy rankings. 
+D.Assistants in big stores are less friendly. 
+答案： C
+
+95. Why do Swiss shop workers have good manners? ("How Polite Are We?")
+A.They have been educated to do so.
+B.They are proud of the service they provide.
+C.They can get a bonus for treating customers well.
+D.They understand they'll get more customers by being polite.
+答案： D
+
+96. Which features is true of this politeness survey? ("How Polite Are We?")
+A.It's the biggest real-life test. 
+B.It involves the most countries. 
+C.It's strictly scientific. 
+D.It has the most surprising outcomes.
+答案： A
+
+97. Which statement is Not True about the survey on politeness? ("How Polite Are We?")
+A.The survey was conducted by Reader's Digest, a popular magazine in the US.
+B.In the survey, questionnaires were used to assess common courtesy.
+C.The survey was conducted in the biggest cities in 35 countries.
+D.The survey results couldn't justify that youngsters have lost respect for the elders.
+答案： B
+
+98. Among the following, who was a Reader's Digest researcher? ("How Polite Are We?")
+A.The woman who dropped a file on the street in Toronto.
+B.The slim girl who walked into the restaurant in Mexico City.
+C.The store assistants in Zurich.
+D.The trader at an illegal market on 25 de Mar?o Street.
+答案： A
+
+99. Which of the following was not among the Top Three most courteous cities? ( "How Polite Are We?")
+A.New York.         B.Toronto.          C.Zurich.           D.Seoul.            
+答案： D
+
+100. In which aspect were New Yorkers found to be particularly polite? ("How Polite Are We?")
+A.Holding doors open for people.
+B.Saying thanks to customers.
+C.Helping pick up dropped files.
+D.Serving people in shabby clothes.
+答案： A
+
+101. Why were the researchers ignored for ten minutes in the tiny music shop in Milan? ( "How Polite Are We?")
+A.The shop assistant didn't see them.
+B.There were many customers in the shop. 
+C.They were rude to the shop assistant.
+D.The assistant had low level courtesy.
+答案： D
+
+102. What conclusion would researchers make based on their experience in a stationery shop in Seoul? ("How Polite Are We?") 
+A.Koreans are good at doing business. 
+B.Koreans are helpful and polite. 
+C.Koreans live a leisurely life. 
+D.Koreans feel proud of themselves. 
+答案： B
+
+103. Why did Mayor Ed Koch mention 9/11 when he got to know New York's ranking in the survey? ("How Polite Are We?")
+A.He attempted a reasonable explanation for the outcome. 
+B.He took the chance to warn his people of future attacks. 
+C.He was calling for people's pride in this city. 
+D.He cited the case to challenge the research findings. 
+答案： A
+
+================================================================================
+II. 填空题：
+--------------------------------------------------------------------------------
+104. The author ______   ||   ______ (表明) his attitude towards respect to the Head, and he explains why today's children do not respect their teachers.
+答案： sets forth
+
+105. When she makes her purchase, the store owner ______    the ______    (用这个时间) to say a friendly thank you.
+答案： takes time
+
+106. Wealthier cities aren't generally as crowded, and ______   ||   ______ (对…的竞争) resources is less intense. 
+答案： competition for
+
+107. Poverty is much ______    e______    (显然) in the city slums.
+答案： in evidence
+
+108. 72-year-old Josip tried to ______   ||   ______ (弯腰) to pick up our female reporter's documents.
+答案： bend down
+
+109. We found that the under-40s were, ______    a small ______    (以微弱优势), the most helpful of all age groups.
+答案： by margin
+
+110. Please inform us of your decision and we will a______    a______    (照办).
+答案： act accordingly
+
+111. At the end of the season, we were t______  |  ______    (与…并列) the Tigers for the first place.
+答案： tied with
+
+112. We interviewed several subjects who had f______  |  ______    (没有能够) hold the door open for others.
+答案： failed to
+
+113. Mike Parsons is a 28-year-old ______   ||   ______ (街头艺人) in the Queen Street West area in Toronto. 
+答案： street artist
+
+114. Young people ______    this charge ______    (归因于) the spread of such notions as "equality", and "democracy".
+答案： attribute to
+
+115. We gave one point for each p______    o______    (正面结果) and nothing for a negative one. 
+答案： positive outcome
+
+116. The m______    s______    (最高的分值) for each city is 60. 
+答案： maximum score
+
+117. Asked to r______ |   ______    (对…作出反应，对…进行评价) our findings, Mayor  Ed Koch pointed to a rise in New York niceness since 9/11. 
+答案： react to
+
+118. Swiss shop workers' good manners were often ______   ||   ______ (被工作自豪感激起的) pride in their work. 
+答案： inspired by
+
+119. This applied across the board, _______   ||   ______ (与…无关) race.
+答案： irrespective of
+
+120. The shop assistant in a tiny music shop in Milan pretended to be busy and ______   ||   ______ (忽略我们，不理睬我们) for ten minutes.
+答案： ignored us
+
+121. Mr. Harrison believes that society has a structure in which certain people hold certain offices that command respect, ______   ||   ______ (不管) the individual qualities of the people who occupy them.
+答案： regardless of
+
+122. The headmaster is demanding ______   ||   ______ (对…的尊重) his office. 
+答案： respect for
+
+123. Will you c______ ||______ (充电) my car battery? 
+答案： charge up 
+
+124. The quality of this product is ______   ||   ______ standard (合格).
+答案： up to
+
+125. After the Argentine economic crisis of 2002, I would never risk l______ a s______ (丢掉一笔买卖). 
+答案： losing sale 
+
+126. People who grow up thinking that way e______ ||______ (告终，终结) having ugly lives. 
+答案： end up 
+
+127. In each location we c______    three ______    (做三项测试).
+答案： conducted tests
+
+128. During the evening ______   ||   ______ (高峰时段) it was often solid with vehicles.
+答案： rush hour
+
+129. Many older people ______    e______    (我们遇到的) complained that courtesy was less common among the young. 
+答案： we encountered
+
+130. After the 9/11 ______   ||   ______ (恐怖袭击), New Yorkers are more caring. 
+答案： terrorist attacks
+
+131. He is so kind and generous that no matter who need help he will ______    a ______    (帮忙).
+答案： do favor
+
+================================================================================
+III. 完形：
+--------------------------------------------------------------------------------
+132. Two of the most common first impressions that foreigners have of Koreans is that they are incredibly polite, and that they are incredibly rude. In fact, the __(1) __ and kindness of Koreans is legendary and attested to (被证实) by thousands of people who are __(2)__ enough to have a Korean friend. Overwhelming meals, __(3)__ gifts: all of this and more has been yours if you have been invited out. This is not a modern invention; traditionally, one of the names of Korea was the “Eastern Land of Courtesy”. The obligations of a host are paramount; the obligation of the guest is to lap it up. On the other hand, the discourtesy and __(4)__ of Koreans is legendary and attested to by thousands of people who are unfortunate enough to have to walk on a Korean __(5)__. Overwhelming __(6)__, unexpected shoving, constant and almost painful inattention to where other people are going: all this and more has been yours if you have gone outside. This may be a modern invention. Westerners have rather a hard time reconciling these two __(7)__ of Korea, these two different sets of behavior, both of them from the same people. Hosts are so friendly; taxi drivers are so __(8)__. Is Korea really composed of two totally different sets of people living on the same land? Actually, yes. For Koreans, the world is composed of two sets of people—those they know and those they don’t know. If you know somebody, then you have a relationship, and are __(9)__ to treat him politely. But if you don’t know someone, if you’ve never formally “met” that person, then the person doesn’t exist. Such people don’t__(10)__, and you don’t have to do anything. It turns out that all sorts of things in Korean society are explained by this distinction between “in” and “out”.
+dimensions/count/nasty/negative/rudeness /courtesy/ crowds/ sincere/obliged/ fortunate/unexpected/ civilized/temper/street/images 
+答案： esy fortunate unexpected rudeness street crowds images nasty obliged count
+
+133. What are the basic elements of good manners? Certainly a strong sense of justice is one; courtesy is often nothing more than a highly developed sense of fair play. A friend of mine once told me of __(1)__ along a one-lane, unpaved mountain road. Ahead was another car that produced clouds of choking __(2)__, and it was a long way to the nearest __(3)__ highway. Suddenly, at a wider place, the car ahead pulled off the road. Thinking that its owner might have engine trouble, my friend stopped and asked if anything was wrong. "No," said the other driver. "But you've __(4)__ my dust this far; I'll put up with yours the rest of the way." Another __(5)__ of courtesy is empathy, a quality that __(6)__ a person to see into the mind or heart of someone else to understand the pain or unhappiness there and to do something to __(7)__ it. A man dining alone in a restaurant was trying to unscrew the cap of a beer bottle, but he couldn't do it because of badly injured __(8)__. He asked a young busboy to help him. The boy took the bottle, turned his back momentarily and loosened the cap without difficulty. Then he __(9)__ it again. Turning back to the man, he pretended to make great efforts to open the bottle without success. Finally he took it into the kitchen and returned shortly, saying that he had managed to loosen it—but only with a pair of pliers (钳子). Yet another component of politeness is the ability to treat all people __(10)___, regardless of all status or importance. Even when you have doubts about some people, act as if they are worthy of your best manners. You may also be astonished to find out that they really are. Courtesy is the key to a happier world.
+endured/tightened /above/ driving /dust/courteous /happiness/ enables /alike/fingers /minimize/turned /different/element/paved
+答案： ng dust paved endured element enables minimize fingers tightened alike
+

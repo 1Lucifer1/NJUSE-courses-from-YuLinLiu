@@ -1,0 +1,587 @@
+大学英语层次２第一学期练习unit6_inline
+Updated: Mon Dec 16 22:10:14 2013
+
+================================================================================
+INFORMATION:
+
+Program created by: ............................................... Luo Chenxing
+Platform: ............................................ Ubuntu 13.04 Python 3.3.1
+Program updated on: .............................................. Dec. 10, 2013
+
+Applause to those teachers who edited and arranged these exercises and to those engineers who run the online system.
+================================================================================
+
+================================================================================
+I. 选择题：
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+PART 1
+--------------------------------------------------------------------------------
+1. The students in Singapore routinely ______ international proficiency exams. 
+A.succeed           B.ace               C.race              D.base              
+答案： B
+
+2. Elective classes ______ students to diverse cultures and international issues. 
+A.extend            B.dispose           C.expose            D.access            
+答案： C
+
+3. Some forward-thinking schools have already begun to ______ the new approach. 
+A.cooperate         B.collaborate       C.commute           D.incorporate       
+答案： D
+
+4. It's a totally different thing to go into the village for the students and they will see everything about farming ______. 
+A.ready             B.done              C.firsthand         D.handy             
+答案： C
+
+5. The heaviest ______ of instruction with real-world relevance is the Academy's innovative senior mastery process. 
+A.dose              B.detail            C.device            D.demand            
+答案： A
+
+6. He believes the strategy is a better way of helping struggling students ______ what they learn.  
+A.retain            B.require           C.request           D.recognize         
+答案： A
+
+7. In the 1970s, the women's liberation movements ______ in both positive and negative terms. 
+A.blurred           B.blossomed         C.intended          D.improved          
+答案： B
+
+8. The 1980s ______ the introduction of global education and world studies. 
+A.occurred          B.changed           C.happened          D.saw               
+答案： D
+
+9. After World War Ⅱ, a widespread movement began around the world to ______ education for “world understanding” with the purpose of preventing a third world war. 
+A.foster            B.fuel              C.flow              D.formulate         
+答案： A
+
+10. Some educational leaders foresaw that the United Stated could not remain ______ forever from the rest of the world. 
+A.independent       B.distant           C.isolated          D.removed           
+答案： C
+
+11. The Soviet launching of Sputnik in 1957 was a(an) ______ not only to improved science education but also to increased pressure in the United States for international education. 
+A.spur              B.spot              C.spoil             D.span              
+答案： A
+
+12. Under the Carter admininistration, fourteen states ______ global education guidelines or programs. 
+A.adapted           B.adopted           C.conformed         D.regulated         
+答案： B
+
+13. Even a kid who ______ out of school early could look forward to a cozy middle-class living.
+A.kicked            B.failed            C.dropped           D.skipped           
+答案： C
+
+14. A German company _____ with a Swiss firm to develop the product.
+A.correlated        B.communicated      C.companied         D.collaborated      
+答案： D
+
+15. You have a legal ______ to ensure your child receives a proper education.
+A.obligation        B.legislation       C.practice          D.privilege         
+答案： A
+
+16. The electronic company has drawn up a (an) ______ for the coming financial year.
+A.schedule          B.budget            C.scheme            D.timetable         
+答案： B
+
+17. The couple would like to ______ their children in their local private school.
+A.drive             B.apply             C.enroll            D.register          
+答案： C
+
+18. Mary's book has the _____ of being both informative and readable.
+A.merit             B.credit            C.gift              D.master            
+答案： A
+
+19. He has a (an) ______ in the western coast and goes there twice a year at least.
+A.pocession         B.poverty           C.property          D.process           
+答案： C
+
+20. They create electronic ______ that include resumes and lists of colleges they would like to attend. 
+A.portraits         B.profiles          C.portfolios        D.portions          
+答案： C
+
+21. According to the Academy principal, all students are supposed to ______ all the graduation requirements. 
+A.match             B.fulfill           C.get               D.filter            
+答案： B
+
+22. Dora lifted the lid, tears beginning to ______ her vision.
+A.blur              B.clear             C.confuse           D.mix               
+答案： A
+
+23. You can make a good living ______ being a high school dropout. 
+A.owing to          B.on account of     C.despite           D.except            
+答案： C
+
+24. This drug should only be taken under the ______ of a doctor.
+A.supervision       B.suspicion         C.suspection        D.suspension        
+答案： A
+
+25. These kites are all ______ and take various shapes.
+A.critical          B.innovative        C.imaginative       D.innocent          
+答案： B
+
+26. He gave us a valuable ______ into the problems of education. 
+A.inspection        B.instruction       C.inspiration       D.insight           
+答案： D
+
+27. Everyone feared that the ______ dispute between these two countries would culminate in (以…而告终）a war.
+A.bonus             B.boundary          C.milestone         D.bottom            
+答案： B
+
+28. A boy ______ an essay titled “How to Be a Better Me”.
+A.computed          B.commuted          C.conducted         D.composed          
+答案： D
+
+29. What he said has no direct ______ to the matter in hand.
+A.reliability       B.reference         C.relevance         D.reflection        
+答案： C
+
+30. Most supermarkets sell a ______ of organic products. 
+A.range             B.rank              C.line              D.chain             
+答案： A
+
+31. The bullets were still ______ in his body.
+A.ambushed          B.indulged          C.embedded          D.input             
+答案： C
+
+32. The news ______ the workers with new life.
+A.confused          B.infused           C.attached          D.assigned          
+答案： B
+
+33. The school is ______ calls from corporate leaders for employees who can work well with others. 
+A.proceeding        B.attending         C.heeding           D.obtaining         
+答案： C
+
+34. We have to ______ out unqualified applicants.
+A.wipe              B.rid               C.alternate         D.weed              
+答案： D
+
+35. I hoped my warning would ______ her to greater efforts.
+A.impose            B.stimulate         C.assist            D.accumulate        
+答案： B
+
+36. Staying up late makes him at his worst ______ physical situation.
+A.in spite of       B.in terms of       C.regardless of     D.in case of        
+答案： B
+
+37. Many people died in the _____ of the explosion.
+A.consequence       B.afterwards        C.aftermath         D.following         
+答案： C
+
+38. Car manufacturers ought to produce vehicles which are more _____ against theft.
+A.precarious        B.peaceful          C.secure            D.safe              
+答案： C
+
+39. A scandal or two adds a little _____ to office life.
+A.space             B.spice             C.substance         D.flavour           
+答案： B
+
+40. Some educational experts _____ that China could not remain backward forever from other countries in the world. 
+A.foresaw           B.promise           C.forewarn          D.protect           
+答案： A
+
+41. For three months last fall, a taskforce of state education officials and college deans ______ over scholarly research on curriculum reform.
+A.pored             B.poured            C.pushed            D.peered            
+答案： A
+
+42. What ______ is it to teach students about math and economics at school if they still spend $200 on sneakers at home?
+A.good              B.goodness          C.virtue            D.function          
+答案： A
+
+43. If you're going to work at a company, you're going to have to ______ and work with everyone around you. 
+A.approve           B.acknowledge       C.realize           D.counsel           
+答案： B
+
+44. Examinations are not the only means of ______ a student's ability.
+A.resorting         B.accessing         C.representing      D.assessing         
+答案： D
+
+45. I must challenge my limits and then ______ them!
+A.surpass           B.bypass            C.fulfill           D.complete          
+答案： A
+
+46. We all have an interest in maintaining the ______ of the ecosystem.
+A.justice           B.integrity         C.perfection        D.interaction       
+答案： B
+
+47. Many people are opposed to the new law, but have had no opportunity to _____ their opposition.
+A.argue             B.attribute         C.attempt           D.articulate        
+答案： D
+
+48. The principal says he would let no child be ______ back. 
+A.held              B.left              C.taken             D.pushed            
+答案： A
+
+49. Within two weeks of arrival all foreigners had to _____ with the local police.
+A.call              B.enroll            C.mandate           D.register          
+答案： D
+
+50. The chair _____ under her weight.
+A.folded            B.moved             C.collapsed         D.trembled          
+答案： C
+
+51. The club does not accept responsibility for loss or damage to club member's personal _____.
+A.privacy           B.property          C.relationship      D.portry            
+答案： B
+
+52. To be _____ is to consider every part of something to make certain it is correct or safe.
+A.vigorous          B.vague             C.rigid             D.rigorous          
+答案： D
+
+53. Rumors of a (an) ______ earthquake started a panic.
+A.imminent          B.prominent         C.compelling        D.immortal          
+答案： A
+
+54. The telegram was misunderstood because of its ______ .
+A.ambition          B.ambiguity         C.amazement         D.dizziness         
+答案： B
+
+55. The company _____ their nearest business competitors by a long way.
+A.outdistance       B.outweigh          C.run               D.pass              
+答案： A
+
+--------------------------------------------------------------------------------
+PART 2
+--------------------------------------------------------------------------------
+56. Having a museum next door may make the process more fun, but it's only one of the ways in which the Academy lowers the firewall between the classroom and the world beyond it. 
+A.隔壁有一个博物馆可以让这个过程更有趣，但是那只是亨利福特高中减弱课堂和外面世界之间“防火墙”式隔绝的其中一种途径而已。
+B.隔壁有一个博物馆可以让这个过程更有趣，但是那只是亨利福特高中减弱外面世界对课堂影响的 “防火墙”而已。
+C.隔壁的博物馆可以让这个过程更有趣，但是那只是亨利福特高中采取的用来抵御外界对课堂干扰的一种途径而已。
+
+答案： A
+
+57. They're up against a much bigger group that's working very hard to take the job they want. 
+A.面对着更大一群的竞争者，他们努力奋斗来赢得想要的工作机会。
+B.他们努力工作淘汰了更多一批的竞争者，从而赢得他们想要的工作机会。
+C.他们面对的是更大一群努力奋斗、想要获得他们所向往的工作机会的竞争者。
+答案： C
+
+58. Through interviews with working professionals, consultations with career advisors, and Internet research on the qualifications, salary and duties for a range of jobs, students weed through options and select a career. 
+A.学生们通过采访正在正在工作的专业人士，向职业顾问咨询以及上网对很多工作的要求、薪水和职责进行研究，往往迟疑不绝，最后才选定一个职业。
+B.学生们通过采访职场专业人士，向职业顾问咨询以及上网对很多工作的要求、薪水和职责进行研究，从中筛选，最后选定一个职业。
+C.学生们通过采访职场专业人士，向职业顾问咨询以及上网对很多工作的要求、薪水和职责进行研究，披荆斩棘战胜多个对手，最后才择业成功。
+答案： B
+
+59. However, practice did not match the preaching; allocations were minimal. 
+A.然而，实际操作并不如宣传那么容易；（政府）调拨的经费只是最低限额而已。
+B.然而，实际执行情况无法满足布道者的要求；（政府）给布道者的拨款只是最低配额而已。
+C.然而，实际执行情况远不如说教的好；（政府）的执行力只是到达人们最低预期标准而已。
+答案： A
+
+60. The admonitions from Friedman's book The World is Flat led to the decision this fall to “kick up the level of rigor” in the curriculum even more.
+A.弗里德曼在他的《世界是扁平的》一书中所提出的劝诫让（学校）决定今年秋季课程标准将更加严格。
+B.弗里德曼的劝诫是在他的《世界是平的》一书中提出的，它让（学校）决定今年秋季课程标准将不再像以往那么严格。
+C.弗里德曼在他的《世界是平的》一书中（对学校）提出建议，希望今年秋季课程将更加严格、甚至更多。
+答案： A
+
+61. The museum and village’s exhibits of antique vehicles, restored historic homesteads and artifacts, bring academic concepts to life and serve as the bases for class projects.
+A.博物馆和村落里展览的古董车辆，复原的古老住宅和手工制品为学术概念回到了生活中来，从而使这些学术概念成为了学生课堂活动的基础。
+B.博物馆和村落里展览的古董车辆，复原的古老住宅和手工制品使得学术概念生动、逼真，这些都成了学生课堂活动的基础。
+C.博物馆和村落里都展览着古董车辆，复原的古老住宅和手工制品成为了学生课堂活动的基础，而学术概念则失去了活力。
+答案： B
+
+62. The goal was to craft rigorous learning standards that would give students the knowledge and skills they need to succeed in college and in the 21st century workplace. 
+A.目标是改变严格的学习标准，这样能让学生学到大学的知识，掌握在21世纪的工作中获得成功的技能。
+B.目标是精心制定严格的学习标准，以便让学生掌握在大学以及在21世纪的工作中取得成功的知识和技能。
+C.目标是制定因人而异的学习标准，能让学生掌握知识和技能，这样学生在大学以及在21世纪的工作中会获得成功。
+答案： B
+
+63. Although the notion of global education came under fire during the Reagan administration, support was growing among some U.S. business and educational leaders. 
+A.尽管全球教育的观念在里根统治时期几乎销声匿迹了，却受到美国商界和教育界一些领袖的支持
+B.尽管全球教育的观念在里根统治时期颇受诟病，但却获得美国商界和教育界一些领袖更多的支持
+C.尽管全球教育的观念遭到里根统治集团的炮轰，更多的美国商界和教育界一些领袖都支持里根政府。
+答案： B
+
+64. From the 1980s to the early 2000s global education as well as multicultural education remained constant in the historical context. 
+A.从二十世纪八十年代到二十一世纪初，国际化教育以及多元文化教育是这个历史背景下不变的主题。
+B.从二十世纪八十年代到二十一世纪初，在这个历史背景下，国际化教育以及多元文化教育一直进行持续的变革。
+C.从二十世纪八十年代到二十一世纪初，国际化教育以及多元文化教育交替成为这个历史背景下的主题。
+答案： A
+
+65. Sievert says many of the insights they're gathering extracurricularly inform the class discussions.
+A.西韦特说他们在课外所收集到的很多见解给课堂讨论提供了话题。
+B.西韦特说他们在课外所逐渐获得的真知灼见给课堂讨论提供了信息。
+C.西韦特说他们在课外所看到的使课堂讨论内容丰富。
+答案： B
+
+66. Groups of educators and others in the United States pressed for congressional support for substantive international and global education programs. 
+A.美国大批教育家和其他人给国会施压，敦促其支持实质性的国际和全球教育项目。
+B.美国大批教育家和其他人强迫国会支持更多的国际和全球教育项目。
+C.美国大批教育家和其他人感到压力很大，要求国会支持实质性的国际和全球教育项目。
+答案： A
+
+67. Some forward-thinking schools have already begun to incorporate the new approach.
+A.一些有远见的学校已经开始研究新的出路了。
+B.一些有前瞻性的学校已经开始采纳新的方法。
+C.一些激进的学校已经使新措施具体化了。
+答案： B
+
+68. While the once innovative industry is struggling to find a new direction, the state's schools have moved into the fast lane of educational reform.
+A.当这个曾经有创新精神的产业在挣扎着寻找新的方向时，这个国家的学校已经驶入了教育改革的快车道。
+B.当这个曾经的新型产业在挣扎着寻找新的方向时，这个国家的学校已经在为教育改革铺路了。
+C.当这个创新过一次的产业在努力奋斗，准备寻找新的方向时，这个国家的学校已经进入了教育改革的快车行列。
+答案： A
+
+69. Last spring the legislature overwhelmingly approved the new graduation rules --- all of which take effect with next fall's freshman class. 
+A.去年春天立法机关以压倒性的多数选票批准通过了新的毕业条例，所有条例对下个秋季学期的新生生效。
+B.去年春天立法机关同意了新的毕业条例，所有的人会和下个秋季学期的大学一年级新生一起体验效果。
+C.去年春天立法机关强烈地批准了新的毕业条例，在下个秋季学期的大学新生身上会见效。 
+答案： A
+
+70. If you're going to work at a company you're going to have to acknowledge and work with everyone around you. 
+A.如果你将在一个公司上班，那么你必须得感谢你周围任何一个人，并和他们一起工作。
+B.如果你要在一个公司上班，那么你必须得和人沟通，并和你身边的每一个人合作。
+C.如果你将在一个公司上班，那么你必须得和你周围任何一个人熟识，并和他们一起工作。 
+答案： B
+
+71. He believes the strategy is a better way of keeping advanced students stimulated and helping struggling students retain what they learn.
+A.他相信这种策略更能激励领先的学生，也更能留住在痛苦中挣扎的学生，记住他们所学的知识。
+B.他相信这是一种较好的策略，它既能激励成绩领先的学生，也能帮助学习吃力的学生记住他们所学的知识。
+C.他相信这种策略更能让优等生有学习动力，也能帮助学习吃力的学生提高他们学习知识的效率。
+答案： B
+
+72. The two-year seminar beginning in eleventh grade is both a tutorial on searching for a job and 
+an exercise in self-exploration.
+A.为期两年的研讨班从十一年级开始，在进行求职辅导的同时，也教学生如何进行探险。
+B.研讨班持续两年，从十一年级开始实行，既有学生如何做好家教的辅导，也有学生在自我探索方面所作的训练。
+C.这种两年制的研讨班从十一年级开始实行，既有老师对学生进行的求职辅导，也有学生在自我
+探索方面所作的训练。
+答案： C
+
+73. The collapse of the auto industry, which also exploded the notion embedded in the DNA here that you can make a good living despite being a high school dropout, created a perfect storm for convincing everyone we needed to make changes.
+A.汽车工业的崩盘也击溃了人们刻在骨子里的观念，即哪怕你是个高中辍学生你也一样能活得很好，从而掀起了一场十足的风暴，让每个人都确信我们需要改变。
+B.汽车工业倒闭了，这个行业曾经击溃了人们刻在骨子里的观念，即哪怕你是个高中辍学生你也一样能活的很好，从而让所有人相信我们必须要做改变了，并且坚信暴风雨终将过去。
+C.汽车工业的崩盘激发了人们潜在的观念，即哪怕你是个高中辍学生你也一样能活的很好，从而刮起一场完美风暴，需要说服所有的人，我们必须要做改变了。
+答案： A
+
+74. As juniors, they should also take the state merit exam, that measures college readiness. 
+A.作为高二学生，他们也要参加州学生学分考试来测试他们的高校学术准备情况。
+B.作为高中生，他们也要参加大学入学考试来测试他们的高校学术准备情况。
+C.作为高三学生，他们也要参加州学业统考来测试他们对大学学习的准备情况。 
+答案： C
+
+75. The Soviet launching of Sputnik in 1957 was a spur not only to improved science education but also to increased pressure in the United States for international education.
+A.1957年苏联发射了第一颗人造卫星，这增加了美国进行科学教育以及国际化教育的压力。
+B.1957年苏联发射第一颗人造卫星不仅对已经有所提高的科学教育是一种促进，而且还进一步加大了美国实施国际化教育的压力。
+C.1957年苏联发射了第一颗人造卫星，这使得美国的压力陡然增加，急需改变当下科学教育以及国际化教育的现状。
+答案： B
+
+76. Both the state's leading industry and its school system are at the crossroads. 
+A.州的支柱产业以及学校系统均处于逆境。
+B.州的支柱产业以及学校系统都处于困境中。
+C.这个州的龙头产业以及学校系统都处在十字路口。 
+答案： C
+
+77. Throughout most of the 20th century, the stream of cars rolling off Michigan assembly lines created jobs with high wages and schools with low expectations. 
+A.在二十世纪的大部分时间里，密歇根汽车生产线上源源不断下线的汽车带来了收入颇丰的工作，同时人们对学校的期望值也很低。
+B.在二十世纪的大部分时间里，在密歇根汽车生产线上汽车滚滚而下，安装这个生产线带来了收入颇丰的工作，学校对此期望值大大降低
+C.在二十世纪的大部分时间里，密歇根汽车生产线上的汽车逐渐下滑，人们对高薪和受教育的期望值大大降低。 
+答案： A
+
+78. Children's books in war-torn Europe, Japan and USSR featured peace and antiwar themes and empathetic stories about children of other lands. 
+A.在饱受战争摧残的欧洲、日本和苏联，儿童书籍以和平、反战主题为特色，这些故事可以引起其他国家儿童的共鸣。
+B.在饱受战争摧残的欧洲、日本和美国，儿童书籍以和平、反战主题以及反映其他国家儿童生活的具有移情作用的故事为主要特色。
+C.在饱受战乱之苦的欧洲、日本和苏联，儿童读物中和平反战主题以及对异域儿童同情向往的故事占了主要部分。
+答案： C
+
+79. Pairs of students pretend to be married couples living on a budget. 
+A.学生们假扮成一对对结婚夫妇，要精打细算过日子。
+B.学生们出双入对，假扮夫妇在一起生活。
+C.学生们假扮成夫妻，要学会如何管理家庭财务。
+答案： A
+
+80. The school is heeding calls from corporate leaders for employees who can work well with others. 
+A.学校正和企业领导人通电话，讨论如何培养能与他人良好合作的雇员。
+B.学校响应企业领导人的号召，讨论哪些雇员能与他人进行良好的合作。
+C.学校正就如何培养与他人进行良好合作的雇员关注企业领导人的意见。 
+答案： C
+
+81. They debate the practical implications of some abstract concepts.
+A.他们把一些抽象概念作为议题进行辩论。
+B.他们对一些抽象概念的密切关系进行辩论。
+C.他们对一些抽象概念的实际意义进行辩论。
+答案： C
+
+82. Working in teams teaches you how to interact with others, and how to be more sociable.
+A.团队协作能教会你如何与他人合作，并获得社会地位。
+B.团队协作能教会你如何与他人沟通，并得到他人的认可。
+C.团队协作能够教会你如何与别人交流互动以及如何取得更好的人缘。
+答案： C
+
+--------------------------------------------------------------------------------
+PART 3
+--------------------------------------------------------------------------------
+83. Why did the booming automobile industry bring about schools with low expectations in Michigan?  ("Building a New Student in Michigan") 
+A.Because good education would guarantee a promising career. 
+B.Because the government attached more importance to industry than education. 
+C.Because a student could expect to get a well-paid job even without a good education. 
+D.Because the auto industry could provide more funds for education.
+答案： C
+
+84. Where is Ford Motor Company located?  ("Building a New Student in Michigan") 
+A.Arkansas.         B.Oregon.           C.Indiana.          D.Michigan.         
+答案： D
+
+85. What are the characteristics of the democratic educational approach in the 1950s?  ("The Development of Global Perspective in U.S. Education")
+A.The rebirth of comparative studies. 
+B.The introduction of multicultural and environmental education. 
+C.The emphasis on area studies, race relations and ethnic studies. 
+D.The inclusion of peace and conflict studies, and human rights education.
+
+答案： C
+
+86. What is the tone of the passage?   ("The Development of Global Perspective in U.S. Education") 
+A.Matter-of-fact. 
+B.Enthusiastic.                                           
+C.Sarcastic.                                                
+D.Humorous. 
+答案： A
+
+87. According to the text, the education for “world understanding” after World War II was launched in order to ______.    ("The Development of Global Perspective in U.S. Education") 
+A.foster cross-cultural awareness
+B.restore the economy
+C.remove the negative impact of the war. 
+D.prevent a third world war
+答案： D
+
+88. Why did Farmington High School decide to adopt stricter academic standards?   ("Building a New Student in Michigan") 
+A.Because it wanted to improve the college placement rate. 
+B.Because it responded seriously to Friedman’s warning. 
+C.Because it wanted its staff to enhance their work ethic.
+D.Because it wanted to enroll more students. 
+答案： B
+
+89. The author mentions that peace and antiwar themes were included in children’s books after World War II in the following areas except ______.  ("The Development of Global Perspective in U.S. Education")
+A.Europe
+B.the U.S.                     
+C.USSR 
+D.Japan  
+答案： B
+
+90. What does the author say about the notion of global education?("The Development of Global Perspective in U.S. Education") 
+A.Several phrases can be used interchangeably and distinctively to stand for it.
+B.It is believed that global education has nothing to do with national interest. 
+C.People haven't yet reached a consensus on its definition, purpose, or objectives. 
+D.There is a general support on its necessity among the educators around the world. 
+答案： C
+
+91. According to the text, which of the following statements is NOT TRUE about the ACT(test)?  ("Building a New Student in Michigan")
+A.Some Michigan high school students are required to take the ACT.
+B.The ACT is the Michigan merit exam. 
+C.The ACT is not as important as other proficiency tests.
+D. Most colleges use ACT scores to measure college readiness.
+答案： D
+
+92. What is the driving force of educational reform in Michigan? ("Building a New Student in Michigan") 
+A.Thomas Friedman's book, The World Is Flat. 
+B.The breakdown of the auto industry in Michigan. 
+C.The education policies in some other countries.
+D.Students' unsatisfactory academic performance. 
+答案： B
+
+93. The author’s purpose in writing this article is to ______.   ("The Development of Global Perspective in U.S. Education")
+A.argue for a progressive education movement of the twentieth century in the U.S. 
+B.present a picture of the development of a global educational perspective in the U.S. 
+C.call on the educators around the world to take action to foster global education 
+D.criticize Congress’s malpractice in global education programs 
+答案： B
+
+94. What can be inferred about the schools before the breakdown of the auto industry in Michigan?  ("Building a New Student in Michigan")
+A.They adopted very loose learning standards.
+B.They approved the graduation rules which were the most rigorous requirements in the country.
+C.They introduced a global perspective into their instruction.
+D.The students in the schools were exposed to diverse cultures.
+答案： A
+
+95. In order to show students how book-learning relates to the real world, many things are done except ______. ("Building a New Student in Michigan") 
+A.having a museum next to the school
+B.pretending to be married couples living on a budget
+C.offering two years of foreign language
+D.a tutorial on searching for a job
+答案： C
+
+================================================================================
+II. 填空题：
+--------------------------------------------------------------------------------
+96. The state's schools have moved into the ______  || ______  (快车道) of educational reform.
+答案： fast lane
+
+97. Malaysians are now better educated and e______   t______ (接触到) many different media, and they are not stupid as what some of our politicians continue to think. 
+答案： exposed to
+
+98. The latest attempt to reform Canadian copyright law is u______   w______ (正在进行当中) after the government there published its Bill C-32 yesterday. 
+答案： under way
+
+99. Students in this country ace international p______ e______ (水平考试）.
+答案： proficiency exams
+
+100. Having plenty of free time, I want to e______ ||  ______  (报名参加) a slow progress English class. 
+答案： enroll in
+
+101. He had spent several hours in the library p ______   o ______  (钻研) those dusty documents.  
+答案： poring over
+
+102. The state board of education wanted to see e ______ cl______ (选修课）that expose them to diverse cultures.
+答案： elective classes
+
+103. In their withdrawal, much of the heavy equipment had to be l______   b______  (丢弃，抛弃）.
+答案： left behind
+
+104. The prescribed medicine failed to t______   e______ (生效). 
+答案： take effect
+
+105. You will be u______   a______  (面临困境）it if you don't pass the test. 
+答案： up against
+
+106. The c______   s______  (特许公立学校）is located on the grounds of the Greenfield Village. 
+答案： charter school
+
+107.  The boy wants to be a m______  e______  (机械工程师）after he graduates.
+答案： mechanical engineer
+
+108. There are so many a______   c______  （抽象概念）in this article that almost all the students can not understand the main idea of it.
+答案： abstract concepts
+
+109. W______  e______ （职业道德标准）is more important than anything an employee should have.
+答案： Work ethic
+
+110. The l______   i______  (龙头产业)is struggling to find a new direction.
+答案： leading industry
+
+111. The coursework should improve critical thinking, problem solving through t______  p______  (团队活动).
+答案： team projects
+
+112. The house was built u ______   the  s______  of  (在…监督下) an architect. 
+答案： under supervision
+
+113. He is a member of the nonprofit education t______   t______  （智囊团）. 
+答案： think tank
+
+114. In this period the research is focused mainly on r______ r______ （种族关系）. 
+答案： race relation 
+
+115. A boy who wants to be a scientist c______ an e______ (构思完成了一篇文章）titled "How to be a Better me". 
+答案： composed essay 
+
+116.  If  you  become  unemployed,  you  will  need  to  adjust  to  your  new  lower  income.  Even  if  you always live ______  a  b______ _ ( 精打细算地生活) it can be hard and soul destroying at times. 
+答案： on budget
+
+117. Many of the girls seemed to be i ______   w______  (使鼓舞，使充满）excitement on seeing the snow.
+答案： infused with
+
+118. The government is u______   f______  (受到抨击) from all sides on its economic policy.
+答案： under fire
+
+119. Fortunately, the storm only did m ______ da______ (最低限度的破坏) to the farmer's crops. 
+答案： minimal damage 
+
+120. The workers strongly disapprove of the firm's new methods on the a ______ || ______  (装配线). 
+答案： assembly line
+
+121. The work failed to meet their r______   s______  (严格标准).
+答案： rigorous standards
+
+================================================================================
+III. 完形：
+--------------------------------------------------------------------------------
+122. Some of those who say they aren't planning to go to college consider the new rules an unfair burden. At a student assembly, McFarlane heard cries of “Why us?” when she announced the changes. Her response: “Because it’s the right thing to do.” Renee Bojanowski is a college-bound junior and honored student at Roosevelt. She says the grousing ( 抱怨) was not withstanding, the 1 ______ need for a new attitude is beginning to sink in among members of the student body. When a university admissions director met with seniors recently and told them that they will need more than a diploma to 2 ______ for the vast majority of 3 ______ jobs, and showed them wage-rate charts, she reports, “it woke a lot of people up because it made them see that if they don’t get more education, they will earn a lot less money.” For teachers whose lesson plans already are bloated with required content, it will be a challenge to cover the 4 ______ academic concepts the state is mandating along with the new graduation requirements. Chemistry teacher Tim Graham 5 ______ the new content mandates in science and math will only exacerbate (加重) tensions between depth and breadth with which teachers must grapple.“Our state proficiency test scores show that we’re bringing our kids along in terms of learning to think 6______ ,” he says. “We’re wondering if we can continue to do that while covering the broader spectrum of skills required by the new rules.” Schools could lobby (游说) the state to let them count the math and science concepts covered in such technical classes as architectural drawing which is 90% geometry, Graham contends, and metals technology which requires students to understand how 7______ levels of carbon content change the way steel reacts to being heated and cooled, for instance, to meet the new guidelines. But that may be a long shot because 8 ______ many vocational-technical teachers aren’t state-certified as applied math and science instructors, according to Graham. “The issue will have to be dealt with 9 ______,” he says, “or we’re going to have a hard time.” Despite such challenges, Graham agrees with his principal that the stricter mandates are appropriate. “It’s going to be a fight 10 ______ and we might see the dropout rate climb a bit,” he predicts. “But this is about having our students ready for where they want to go in life, with the ability to work in teams, reach conclusions, make connections, think logically and solve problems, because those are the essential skills for the workplace now.”
+predicts，varying, urgent，qualify，critically, range, additional, currently, diverse, term, initially, desirable, eventually, budget, potentially
+答案： urgent qualify desirable additional predicts critically varying currently eventually initially 
+
