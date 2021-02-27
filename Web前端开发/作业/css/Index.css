@@ -1,0 +1,53 @@
+.index-title{
+    margin-top: 2em;
+    text-align: center;
+}
+.index-title-text{
+    color: #C1C3C6;
+    font-size: 64px;
+    font-style: italic;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.masonry {
+    -moz-column-count:3; /* Firefox */
+    -webkit-column-count:3; /* Safari 和 Chrome */
+    column-count:3;
+    -moz-column-gap: 2em;
+    -webkit-column-gap: 2em;
+    column-gap: 2em;
+    width: 70%;
+    margin:2em auto;
+}
+.item {
+    /*padding: 2em;*/
+    margin-bottom: 2em;
+    -moz-page-break-inside: avoid;
+    -webkit-column-break-inside: avoid;
+    break-inside: avoid;
+    background: #1D1F20;
+    color: #fff;
+    text-align: center;
+}
+.item_content{
+
+}
+.pic{
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+    align-content: center;
+}
+
+@media screen and (max-width: 800px) {
+    .masonry {
+        column-count: 2; /* two columns on larger phones */
+    }
+}
+@media screen and (max-width: 500px) {
+    .masonry {
+        column-count: 1; /* two columns on larger phones */
+    }
+}

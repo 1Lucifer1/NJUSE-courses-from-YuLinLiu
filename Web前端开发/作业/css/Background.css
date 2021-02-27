@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+    color: #F2F2F2;
+    background: linear-gradient(125deg, #1A1C1D, #303641, #1A1C1D);
+    background-size: 1400%;
+    animation:bg_anim 20s ease infinite;
+    -webkit-animation: bg_anim 20s ease infinite;
+    -moz-animation: bg_anim 20s ease infinite;
+}
+@keyframes bg_anim
+{
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 50% 100%;
+    }
+    100% {
+        background-position: 100% 0%;
+    }
+}

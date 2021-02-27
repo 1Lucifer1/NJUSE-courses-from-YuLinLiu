@@ -1,0 +1,23 @@
+.index-title{
+    margin-top: 2em;
+    text-align: center;
+}
+.index-title-text{
+    color: #C1C3C6;
+    font-size: 32px;
+    font-style: italic;
+    text-decoration: underline;
+}
+.visible-watermark{
+    text-align: center;
+    position: relative;
+}
+.invisible-watermark{
+    text-align: center;
+    position: relative;
+}
+
+.text{
+    font-size: 24px;
+}
+

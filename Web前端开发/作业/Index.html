@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>主页</title>
+    <link rel="stylesheet" href="css/Index.css">
+    <link rel="stylesheet" href="css/Background.css">
+
+</head>
+<body>
+<div class="index-title">
+    <a class="index-title-text" href="MyInfo.html">我的图片库</a>
+</div>
+<div class="masonry">
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/960x800-1.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-2.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-3.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/1800x1200-1.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/1920x1190-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/2560x1440-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/960x800-2.jpg" class="pic"/>
+        </div>
+    </div>
+<!--    <div class="item">-->
+<!--        <div class="item_content">-->
+<!--            <video class="pic" controls="controls">-->
+<!--                <source src="video/咒术回战.mp4" type="video/mp4"/>-->
+<!--            </video>-->
+<!--        </div>-->
+<!--    </div>-->
+    <!-- more items -->
+</div>
+<script>
+    window.onload = function() {
+        delayImg();
+    };
+
+    window.onscroll = function() {
+        delayImg();
+    };
+
+    window.onresize = function() {
+        delayImg();
+    };
+    function delayImg() {
+        var aImg = document.getElementsByTagName('img');
+        var len = aImg.length;
+
+        for(var i = 0; i < len; i++) {
+            var thisImg = aImg[i];
+
+            if(thisImg.getAttribute('src') === '') {
+                console.log(thisImg.getAttribute('x-src'))
+                console.log(thisImg.offsetTop)
+                if(thisImg.offsetTop < document.documentElement.clientHeight +
+                    (document.documentElement.scrollTop || document.body.scrollTop)) {
+                    thisImg.setAttribute('src', thisImg.getAttribute('x-src'));
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>

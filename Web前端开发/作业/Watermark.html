@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>主页</title>
+    <link rel="stylesheet" href="css/Background.css">
+    <link rel="stylesheet" href="css/Watermark.css">
+</head>
+<body>
+<div class="index-title">
+    <a class="index-title-text" href="MyInfo.html">水印展示</a>
+</div>
+<div class="watermark">
+    <div class="visible-watermark">
+        <div>
+            <a class="text">原图片</a>
+        </div>
+        <img src="img/960x800-1.jpg" class="pic"/>
+        <div>
+            <a class="text">可见水印</a>
+        </div>
+        <img id = "visible_img" src="img/960x800-1.jpg" class="pic"/>
+        <script>
+            (function() {
+                function __picWM({url = '',
+                                     textAlign = 'center',
+                                     textBaseline = 'middle',
+                                     font = "72px Microsoft Yahei",
+                                     fillStyle = 'rgba(184, 184, 184, 0.8)',
+                                     content = '请勿外传',
+                                     cb = null,
+                                     textX = 500,
+                                     textY = 500
+                } = {}) {
+                    const img = new Image();
+                    img.src = url;
+                    img.crossOrigin = 'anonymous';
+                    img.onload = function() {
+                        const canvas = document.createElement('canvas');
+                        canvas.width = img.width;
+                        canvas.height = img.height;
+                        const ctx = canvas.getContext('2d');
+                        ctx.drawImage(img, 0, 0);
+                        ctx.textAlign = textAlign;
+                        ctx.textBaseline = textBaseline;
+                        ctx.font = font;
+                        ctx.fillStyle = fillStyle;
+                        ctx.fillText(content, img.width - textX, img.height - textY);
+                        const base64Url = canvas.toDataURL();
+                        cb && cb(base64Url);
+                    }
+                }
+                if (typeof module != 'undefined' && module.exports) {
+                    //CMD
+                    module.exports = __picWM;
+                } else if (typeof define == 'function' && define.amd) {
+                    // AMD
+                    define(function () {
+                        return __picWM;
+                    });
+                }
+                else {
+                    window.__picWM = __picWM;
+                }    })();
+            // 调用
+            __picWM({
+                url: 'img/960x800-1.jpg',
+                content: '水印',
+                cb: (base64Url) => {
+                    document.querySelector('#visible_img').src = base64Url
+                },
+            });
+        </script>
+    </div>
+    <div class="invisible-watermark">
+        <div>
+            <a class="text">不可见水印</a>
+        </div>
+        <canvas id="invisible-canvas" ></canvas>
+        <script>
+            var mergeData = function (ctx, newData, color, originalData) {
+                var oData = originalData.data;
+                var bit, offset;  // offset的作用是找到alpha通道值，这里需要大家自己动动脑筋
+
+                //看是修改RGB哪一个颜色数值
+                switch (color) {
+                    case 'R':
+                        bit = 0;
+                        offset = 3;
+                        break;
+                    case 'G':
+                        bit = 1;
+                        offset = 2;
+                        break;
+                    case 'B':
+                        bit = 2;
+                        offset = 1;
+                        break;
+                }
+
+                //像素遍历
+                for (var i = 0; i < oData.length; i++) {
+
+                    //在有像素信息的点，将 R 偶数的通道+1。在没有像素点的地方将 R 通道转化成偶数
+                    if (i % 4 == bit) {
+                        // 只处理目标通道
+                        if (newData[i + offset] === 0 && (oData[i] % 2 === 1)) {
+                            // 没有信息的像素，该通道最低位置0，但不要越界
+                            if (oData[i] === 255) {
+                                oData[i]--;
+                            } else {
+                                oData[i]++;
+                            }
+                        } else if (newData[i + offset] !== 0 && (oData[i] % 2 === 0)) {
+                            // // 有信息的像素，该通道最低位置1，可以想想上面的斑点效果是怎么实现的
+                            oData[i]++;
+                        }
+                    }
+                }
+                ctx.putImageData(originalData, 0, 0);
+            }
+            var processData = function (ctx, originalData) {
+                var data = originalData.data;
+                for (var i = 0; i < data.length; i++) {
+                    if (i % 4 == 0) {
+                        // R分量
+                        if (data[i] % 2 == 0) {
+                            data[i] = 0;
+                        } else {
+                            data[i] = 255;
+                        }
+                    } else if (i % 4 == 3) {
+                        // alpha通道不做处理
+                        continue;
+                    } else {
+                        // 关闭其他分量，不关闭也不影响答案
+                        data[i] = 0;
+                    }
+                }
+                // 将结果绘制到画布
+                ctx.putImageData(originalData, 0, 0);
+            }
+            function encodeImg(src) {
+                var textData;
+                var ctx = document.getElementById('invisible-canvas').getContext('2d');
+                ctx.font = '30px Microsoft Yahei';
+                ctx.fillText('水印', 500, 500);
+                ctx.canvas.width = 960;
+                ctx.canvas.height = 800;
+                textData = ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height).data;
+                var img = new Image();
+                var originalData;
+
+                img.onload = function () {
+                    // 获取指定区域的canvas像素信息
+                    ctx.drawImage(img, 0, 0);
+                    originalData = ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height);
+                    mergeData(ctx, textData, 'R', originalData)
+                };
+                img.src = src;
+            }
+
+            function decodeImg(src) {
+                var ctx = document.getElementById('canvas').getContext('2d');
+                var img = new Image();
+                var originalData;
+                img.onload = function () {
+                    // 获取指定区域的canvas像素信息
+                    ctx.drawImage(img, 0, 0);
+                    originalData = ctx.getImageData(0, 0, ctx.canvas.width, ctx.canvas.height);
+                    console.log(originalData)
+                    processData(ctx, originalData)
+                };
+                img.src = src;
+            }
+            encodeImg('img/960x800-1.jpg')
+            // decodeImg('img/960x800-1.jpg')
+        </script>
+    </div>
+</div>
+</body>
+</html>

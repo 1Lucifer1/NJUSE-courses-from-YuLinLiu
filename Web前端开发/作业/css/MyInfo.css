@@ -1,0 +1,18 @@
+.container-my-info{
+    background-color: #1D1F20;
+    position: relative;
+    top: 20%;
+    margin: auto;
+    width: 1000px;
+    height: 480px;
+    border-radius: 0.35em;
+    box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+#title{
+    color: #C1C3C6;
+    font-size: 30px;
+    padding: 20px;
+}
+

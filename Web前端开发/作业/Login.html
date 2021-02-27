@@ -1,0 +1,58 @@
+<html lang="zh-CN">
+<link>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/Login.css">
+    <link rel="stylesheet" href="css/Background.css">
+    <link rel="stylesheet" href="css/Button.css">
+    <title>登录</title>
+</head>
+
+<body>
+<div id="container-login">
+    <div id="title">
+        <img src="img/lock.png" height="26" width="26"/>
+        <a>登录</a>
+    </div>
+
+    <form>
+        <div class="input">
+            <div class="input-addon">
+                <img src="img/user.png" height="26" width="26"/>
+            </div>
+            <input id="username" placeholder="Username" type="text" required class="validate" autocomplete="off">
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="input">
+            <div class="input-addon">
+                <img src="img/password.png" height="26" width="26"/>
+            </div>
+            <input id="password" placeholder="Password" type="password" required class="validate" autocomplete="off">
+        </div>
+
+        <div class="remember-me">
+            <input type="checkbox">
+            <span style="color: #DDD">记住我</span>
+        </div>
+
+        <input type="submit" value="登录" onclick='location.href = ("Index.html")'/>
+    </form>
+
+    <div class="forgot-password">
+        <a href="#">忘记密码?</a>
+    </div>
+    <div class="privacy">
+        <a href="#">隐私政策</a>
+    </div>
+
+    <div class="login">
+        <div>
+            <a>没有账号?</a>
+        </div>
+        <a href="Register.html"><button class="button-link">立即注册</button></a>
+    </div>
+</div>
+</body>
+
+</html>

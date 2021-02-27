@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>主页</title>
+    <link rel="stylesheet" href="css/Index.css">
+    <link rel="stylesheet" href="css/Background.css">
+
+</head>
+<body>
+<div class="index-title">
+    <a class="index-title-text" href="MyInfo.html">我的图片库</a>
+</div>
+<div class="masonry">
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/960x800-1.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-2.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/720x1280-3.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/1800x1200-1.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/1920x1190-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/2560x1440-1.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/960x800-2.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/718436.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/72732.png" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/215588.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/416969.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/898604.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/899510.jpg" class="pic"/>
+        </div>
+    </div>
+    <div class="item">
+        <div class="item_content">
+            <img src="" x-src="img/899538.jpg" class="pic"/>
+        </div>
+    </div>
+    <!-- more items -->
+</div>
+<script>
+    window.onload = async function() {
+        loadImg();
+    };
+
+    //设置了 500ms 的延迟，和 1000ms 的间隔，当超过 1000ms 未触发该函数，则立即执行该函数，不然则延迟 500ms 执行该函数。
+    window.addEventListener('scroll', throttle(loadImg, 500, 1000), false);
+
+    window.onresize = async function() {
+        loadImg();
+    };
+
+    function loadImg() {
+        var aImg = document.getElementsByTagName('img');
+        var len = aImg.length;
+
+        for(var i = 0; i < len; i++) {
+            var thisImg = aImg[i];
+
+            if(thisImg.getAttribute('src') === '') {
+
+                // obj.offsetTop < 可视区高度 + 滚动距离;
+                if(thisImg.offsetTop < document.documentElement.clientHeight +
+                    (document.documentElement.scrollTop || document.body.scrollTop)) {
+                    thisImg.setAttribute('src', thisImg.getAttribute('x-src'));
+                }
+            }
+        }
+    }
+    function throttle(fn, delay, atleast) {
+        var timeout = null,
+            startTime = new Date();
+        return function() {
+            var curTime = new Date();
+            clearTimeout(timeout);
+            if(curTime - startTime >= atleast) {
+                fn();
+                startTime = curTime;
+            }else {
+                timeout = setTimeout(fn, delay);
+            }
+        }
+    }
+
+</script>
+</body>
+</html>
