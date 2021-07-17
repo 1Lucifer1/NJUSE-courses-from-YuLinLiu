@@ -1,0 +1,14 @@
+name: "photo"
+manufacturer: "lbd"
+model: "Raspberry Pi 3b+"
+labels:
+  - "photo result"
+description: "photo recognition"
+
+deviceResources:
+      -
+        name: photo
+        description: "photo result"
+        properties:
+            value:
+             { type: "String", readWrite: "RW", minimum: "", maximum: "", size: "1000", LSB: "true", defaultValue: "0"}

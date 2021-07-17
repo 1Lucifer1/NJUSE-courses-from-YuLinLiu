@@ -1,0 +1,48 @@
+name: "tempAlarmer"
+manufacturer: "lbd"
+model: "ABCDE12345"
+labels:
+  - "temp Alarmer"
+  - "test app"
+description: "judge the temperature and alarm."
+
+deviceResources:
+  - name: judge
+    description: "JSON message"
+    properties:
+      value:
+        { type: "String", readWrite: "W" , mediaType : "application/json" }
+      units:
+        { type: "String", readWrite: "R" }
+
+deviceCommands:
+  - name: "judge"
+    get:
+      - { operation: "get", deviceResource: "judge" }
+    set:
+      - { operation: "set", deviceResource: "judge", parameter: "judge" }
+
+coreCommands:
+  -
+    name: judge
+    get:
+      path: "/api/v1/device/{deviceId}/judgeTemp"
+      responses:
+      -
+        code: "200"
+        description: "get current judge"
+        expectedValues: ["judge"]
+      -
+        code: "503"
+        description: "service unavailable"
+        expectedValues: []
+    put:
+      path: "/api/v1/device/{deviceId}/judgeTemp"
+      responses:
+      -
+        code: "201"
+        description: "set the judge"
+      -
+        code: "503"
+        description: "service unavailable"
+        expectedValues: []

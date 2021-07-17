@@ -1,0 +1,14 @@
+name: "tempSensor"
+manufacturer: "lbd"
+model: "Raspberry Pi 3b+"
+labels:
+  - "temperature Sensor"
+description: "temperature sensor providing data for temperature"
+
+deviceResources:
+      -
+        name: temperature
+        description: "Sensor cluster temperature values"
+        properties:
+            value:
+             { type: "Int64", readWrite: "RW", minimum: "-50", maximum: "105", size: "4", LSB: "true", defaultValue: "0"}
